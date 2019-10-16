@@ -45,9 +45,9 @@ package {
 		public function getWidth():int
 		{
 			if (this._stageWidth < 1400) {
-				return 535;
-			} else {
 				return 500;
+			} else {
+				return 540;
 			}
 		}
 		
@@ -74,9 +74,9 @@ package {
 		public function getTopOffset():int
 		{
 			if (this._stageWidth < 1400) {
-				return 213;
+				return 195;
 			} else {
-				return 199;
+				return 215;
 			}
 		}
 

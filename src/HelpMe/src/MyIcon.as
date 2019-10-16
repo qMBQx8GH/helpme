@@ -33,12 +33,16 @@ package {
 
 		public function getLeftOffset():int
 		{
-			return 80;
+			return 40;
 		}
 
 		public function getTopOffset():int
 		{
-			return 370;
+			if (this._stageWidth < 1400) {
+				return 370;
+			} else {
+				return 400;
+			}
 		}
 
 		public function getColumnStep():int
