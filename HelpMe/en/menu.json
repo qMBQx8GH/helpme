@@ -66,6 +66,14 @@
             {
               "id": "HelpMe.showPerkMenuBBEN",
               "title": "&4. England"
+            },
+            {
+              "id": "HelpMe.showPerkMenuBBFR1",
+              "title": "&5. France (survive)"
+            },
+            {
+              "id": "HelpMe.showPerkMenuBBFR2",
+              "title": "&6. France (secondary armament)"
             }
           ]
         },
