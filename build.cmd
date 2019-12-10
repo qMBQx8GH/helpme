@@ -42,8 +42,8 @@ for /f "usebackq delims=" %%a in ("!INI!") do (
 echo %DESTINATION%
 
 SET REV=
-for /f "tokens=*" %%i in ('hg parent --template "{rev}"') do (
-  set REV=%%i
+for /f "tokens=*" %%i in ('git rev-list --count --first-parent HEAD') do (
+  set /a REV=%%i+128
 )
 echo %REV%
 
