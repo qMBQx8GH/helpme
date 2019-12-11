@@ -28,13 +28,20 @@ for ship_id in ships:
         continue
     if ship["nation"] == "events":
         continue
+
     ship_name = tr.gettext('IDS_' + ship['id_str']).decode('utf8').strip("[]")
+    if ship_name.endswith('(old)') or ship_name.endswith('(OLD)'):
+        continue
+    if ship_name.startswith('IDS_') or ship_name.startswith('Disabled:'):
+        continue
+
     wiki_url = "http://wiki.wargaming.net/en/Ship:" + urllib.quote(ship_name.encode('utf8'))
     if ship_id in old_links and old_links[ship_id]["status_code"] == 200:
         wiki_status = 200
     else:
         wiki_page = requests.get(wiki_url)
         wiki_status = wiki_page.status_code
+
     links[ship_id] = {
         "ship_id": ship_id,
         "id_str": ship['id_str'],
@@ -47,7 +54,7 @@ for ship_id in ships:
         "status_code": wiki_status,
     }
     if wiki_status != 200:
-        print "{} {}".format(wiki_status, ship_name.encode('cp866', errors='ignore'))
+        print "{} {} {}".format(wiki_status, ship_id, ship_name.encode('utf8', errors='ignore'))
 
 newlist = sorted(links.values(), key=lambda k: k['id_str'])
 with open(out_file, 'w') as outfile:
