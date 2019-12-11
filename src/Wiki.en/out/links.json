@@ -1,82 +1,5 @@
 [
   {
-    "id_str": "PASA002", 
-    "nation": "usa", 
-    "ship_id": "4292851696", 
-    "ship_name": "Bogue (old)", 
-    "status_code": 404, 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Bogue%20%28old%29"
-  }, 
-  {
-    "id_str": "PASA004", 
-    "nation": "usa", 
-    "ship_id": "4290754544", 
-    "ship_name": "Langley (old)", 
-    "status_code": 404, 
-    "tier": 4, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Langley%20%28old%29"
-  }, 
-  {
-    "id_str": "PASA006", 
-    "nation": "usa", 
-    "ship_id": "4288657392", 
-    "ship_name": "Independence (old)", 
-    "status_code": 404, 
-    "tier": 6, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Independence%20%28old%29"
-  }, 
-  {
-    "id_str": "PASA010", 
-    "nation": "usa", 
-    "ship_id": "4284463088", 
-    "ship_name": "Ranger (old)", 
-    "status_code": 404, 
-    "tier": 7, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Ranger%20%28old%29"
-  }, 
-  {
-    "id_str": "PASA012", 
-    "nation": "usa", 
-    "ship_id": "4282365936", 
-    "ship_name": "Lexington (old)", 
-    "status_code": 404, 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Lexington%20%28old%29"
-  }, 
-  {
-    "id_str": "PASA013", 
-    "nation": "usa", 
-    "ship_id": "4281317360", 
-    "ship_name": "Essex (old)", 
-    "status_code": 404, 
-    "tier": 9, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Essex%20%28old%29"
-  }, 
-  {
-    "id_str": "PASA015", 
-    "nation": "usa", 
-    "ship_id": "4279220208", 
-    "ship_name": "Midway (old)", 
-    "status_code": 404, 
-    "tier": 10, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Midway%20%28old%29"
-  }, 
-  {
     "id_str": "PASA104", 
     "nation": "usa", 
     "ship_id": "4185896944", 
@@ -121,28 +44,6 @@
     "url": "http://wiki.wargaming.net/en/Ship:Midway"
   }, 
   {
-    "id_str": "PASA507", 
-    "nation": "usa", 
-    "ship_id": "3763320816", 
-    "ship_name": "Saipan (old)", 
-    "status_code": 404, 
-    "tier": 7, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Saipan%20%28old%29"
-  }, 
-  {
-    "id_str": "PASA508", 
-    "nation": "usa", 
-    "ship_id": "3762272240", 
-    "ship_name": "Enterprise (old)", 
-    "status_code": 404, 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Enterprise%20%28old%29"
-  }, 
-  {
     "id_str": "PASA518", 
     "nation": "usa", 
     "ship_id": "3751786480", 
@@ -163,17 +64,6 @@
     "title": "Wiki", 
     "type": "AirCarrier", 
     "url": "http://wiki.wargaming.net/en/Ship:Saipan"
-  }, 
-  {
-    "id_str": "PASA905", 
-    "nation": "usa", 
-    "ship_id": "3345987568", 
-    "ship_name": "IDS_PASA905", 
-    "status_code": 404, 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:IDS_PASA905"
   }, 
   {
     "id_str": "PASA906", 
@@ -528,39 +418,6 @@
     "url": "http://wiki.wargaming.net/en/Ship:Atlanta"
   }, 
   {
-    "id_str": "PASC007", 
-    "nation": "usa", 
-    "ship_id": "4287543280", 
-    "ship_name": "Cleveland (old)", 
-    "status_code": 404, 
-    "tier": 6, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Cleveland%20%28old%29"
-  }, 
-  {
-    "id_str": "PASC012", 
-    "nation": "usa", 
-    "ship_id": "4282300400", 
-    "ship_name": "Pensacola (old)", 
-    "status_code": 404, 
-    "tier": 7, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Pensacola%20%28old%29"
-  }, 
-  {
-    "id_str": "PASC014", 
-    "nation": "usa", 
-    "ship_id": "4280203248", 
-    "ship_name": "New Orleans (old)", 
-    "status_code": 404, 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:New%20Orleans%20%28old%29"
-  }, 
-  {
     "id_str": "PASC016", 
     "nation": "usa", 
     "ship_id": "4278106096", 
@@ -570,17 +427,6 @@
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/en/Ship:Worcester"
-  }, 
-  {
-    "id_str": "PASC017", 
-    "nation": "usa", 
-    "ship_id": "4277057520", 
-    "ship_name": "Baltimore (old)", 
-    "status_code": 404, 
-    "tier": 9, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Baltimore%20%28old%29"
   }, 
   {
     "id_str": "PASC019", 
@@ -889,17 +735,6 @@
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/en/Ship:Erie"
-  }, 
-  {
-    "id_str": "PASC907", 
-    "nation": "usa", 
-    "ship_id": "3343824880", 
-    "ship_name": "IDS_PASC907", 
-    "status_code": 404, 
-    "tier": 4, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:IDS_PASC907"
   }, 
   {
     "id_str": "PASD002", 
@@ -1296,17 +1131,6 @@
     "title": "Wiki", 
     "type": "Battleship", 
     "url": "http://wiki.wargaming.net/en/Ship:Conqueror"
-  }, 
-  {
-    "id_str": "PBSB207", 
-    "nation": "uk", 
-    "ship_id": "4077860816", 
-    "ship_name": "IDS_PBSB207", 
-    "status_code": 404, 
-    "tier": 7, 
-    "title": "Wiki", 
-    "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/en/Ship:IDS_PBSB207"
   }, 
   {
     "id_str": "PBSB208", 
@@ -1747,17 +1571,6 @@
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/en/Ship:Gallant"
-  }, 
-  {
-    "id_str": "PBSD507", 
-    "nation": "uk", 
-    "ship_id": "3763222480", 
-    "ship_name": "IDS_PBSD507", 
-    "status_code": 404, 
-    "tier": 7, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/en/Ship:IDS_PBSD507"
   }, 
   {
     "id_str": "PBSD517", 
@@ -2233,39 +2046,6 @@
     "url": "http://wiki.wargaming.net/en/Ship:L%27Effront%C3%A9"
   }, 
   {
-    "id_str": "PGSA508", 
-    "nation": "germany", 
-    "ship_id": "3762272048", 
-    "ship_name": "Graf Zeppelin (old)", 
-    "status_code": 404, 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Graf%20Zeppelin%20%28old%29"
-  }, 
-  {
-    "id_str": "PGSA509", 
-    "nation": "germany", 
-    "ship_id": "3761223472", 
-    "ship_name": "IDS_PGSA509", 
-    "status_code": 404, 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:IDS_PGSA509"
-  }, 
-  {
-    "id_str": "PGSA510", 
-    "nation": "germany", 
-    "ship_id": "3760174896", 
-    "ship_name": "IDS_PGSA510", 
-    "status_code": 404, 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:IDS_PGSA510"
-  }, 
-  {
     "id_str": "PGSA518", 
     "nation": "germany", 
     "ship_id": "3751786288", 
@@ -2396,17 +2176,6 @@
     "title": "Wiki", 
     "type": "Battleship", 
     "url": "http://wiki.wargaming.net/en/Ship:K.%20Albert"
-  }, 
-  {
-    "id_str": "PGSB504", 
-    "nation": "germany", 
-    "ship_id": "3766433584", 
-    "ship_name": "IDS_PGSB504", 
-    "status_code": 404, 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/en/Ship:IDS_PGSB504"
   }, 
   {
     "id_str": "PGSB506", 
@@ -2992,83 +2761,6 @@
     "url": "http://wiki.wargaming.net/en/Ship:Paolo%20Emilio"
   }, 
   {
-    "id_str": "PJSA002", 
-    "nation": "japan", 
-    "ship_id": "4292851408", 
-    "ship_name": "H\u014dsh\u014d (old)", 
-    "status_code": 404, 
-    "tier": 4, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:H%C5%8Dsh%C5%8D%20%28old%29"
-  }, 
-  {
-    "id_str": "PJSA006", 
-    "nation": "japan", 
-    "ship_id": "4288657104", 
-    "ship_name": "Zuih\u014d (old)", 
-    "status_code": 404, 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Zuih%C5%8D%20%28old%29"
-  }, 
-  {
-    "id_str": "PJSA009", 
-    "nation": "japan", 
-    "ship_id": "4285511376", 
-    "ship_name": "Ry\u016bj\u014d (old)", 
-    "status_code": 404, 
-    "tier": 6, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Ry%C5%ABj%C5%8D%20%28old%29"
-  }, 
-  {
-    "id_str": "PJSA011", 
-    "nation": "japan", 
-    "ship_id": "4283414224", 
-    "ship_name": "Hiry\u016b (old)", 
-    "status_code": 404, 
-    "tier": 7, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Hiry%C5%AB%20%28old%29"
-  }, 
-  {
-    "id_str": "PJSA012", 
-    "nation": "japan", 
-    "ship_id": "4282365648", 
-    "ship_name": "Sh\u014dkaku (old)", 
-    "status_code": 404, 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Sh%C5%8Dkaku%20%28old%29"
-  }, 
-  {
-    "id_str": "PJSA015", 
-    "nation": "japan", 
-    "ship_id": "4279219920", 
-    "ship_name": "Taih\u014d (old)", 
-    "status_code": 404, 
-    "tier": 9, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Taih%C5%8D%20%28old%29"
-  }, 
-  {
-    "id_str": "PJSA017", 
-    "nation": "japan", 
-    "ship_id": "4277122768", 
-    "ship_name": "Hakury\u016b (old)", 
-    "status_code": 404, 
-    "tier": 10, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Hakury%C5%AB%20%28old%29"
-  }, 
-  {
     "id_str": "PJSA104", 
     "nation": "japan", 
     "ship_id": "4185896656", 
@@ -3111,17 +2803,6 @@
     "title": "Wiki", 
     "type": "AirCarrier", 
     "url": "http://wiki.wargaming.net/en/Ship:Hakury%C5%AB"
-  }, 
-  {
-    "id_str": "PJSA507", 
-    "nation": "japan", 
-    "ship_id": "3763320528", 
-    "ship_name": "Kaga (old)", 
-    "status_code": 404, 
-    "tier": 7, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/en/Ship:Kaga%20%28old%29"
   }, 
   {
     "id_str": "PJSA518", 
@@ -3740,17 +3421,6 @@
     "url": "http://wiki.wargaming.net/en/Ship:Za%C5%8D"
   }, 
   {
-    "id_str": "PJSC999", 
-    "nation": "japan", 
-    "ship_id": "3247355600", 
-    "ship_name": "IDS_PJSC999", 
-    "status_code": 404, 
-    "tier": 10, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:IDS_PJSC999"
-  }, 
-  {
     "id_str": "PJSD001", 
     "nation": "japan", 
     "ship_id": "4293801680", 
@@ -3793,50 +3463,6 @@
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/en/Ship:Minekaze"
-  }, 
-  {
-    "id_str": "PJSD005", 
-    "nation": "japan", 
-    "ship_id": "4289607376", 
-    "ship_name": "Mutsuki (old)", 
-    "status_code": 404, 
-    "tier": 6, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/en/Ship:Mutsuki%20%28old%29"
-  }, 
-  {
-    "id_str": "PJSD006", 
-    "nation": "japan", 
-    "ship_id": "4288558800", 
-    "ship_name": "Hatsuharu (old)", 
-    "status_code": 404, 
-    "tier": 7, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/en/Ship:Hatsuharu%20%28old%29"
-  }, 
-  {
-    "id_str": "PJSD007", 
-    "nation": "japan", 
-    "ship_id": "4287510224", 
-    "ship_name": "Fubuki (old)", 
-    "status_code": 404, 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/en/Ship:Fubuki%20%28old%29"
-  }, 
-  {
-    "id_str": "PJSD010", 
-    "nation": "japan", 
-    "ship_id": "4284364496", 
-    "ship_name": "Kager\u014d (old)", 
-    "status_code": 404, 
-    "tier": 9, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/en/Ship:Kager%C5%8D%20%28old%29"
   }, 
   {
     "id_str": "PJSD012", 
@@ -4283,7 +3909,7 @@
     "nation": "ussr", 
     "ship_id": "3741267408", 
     "ship_name": "Borodino", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 8, 
     "title": "Wiki", 
     "type": "Battleship", 
@@ -4631,28 +4257,6 @@
     "url": "http://wiki.wargaming.net/en/Ship:Izyaslav"
   }, 
   {
-    "id_str": "PRSD105", 
-    "nation": "ussr", 
-    "ship_id": "4184749520", 
-    "ship_name": "Gnevny (OLD)", 
-    "status_code": 404, 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/en/Ship:Gnevny%20%28OLD%29"
-  }, 
-  {
-    "id_str": "PRSD106", 
-    "nation": "ussr", 
-    "ship_id": "4183700944", 
-    "ship_name": "Ognevoi (OLD)", 
-    "status_code": 404, 
-    "tier": 6, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/en/Ship:Ognevoi%20%28OLD%29"
-  }, 
-  {
     "id_str": "PRSD107", 
     "nation": "ussr", 
     "ship_id": "4182652368", 
@@ -4662,28 +4266,6 @@
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/en/Ship:Udaloi"
-  }, 
-  {
-    "id_str": "PRSD108", 
-    "nation": "ussr", 
-    "ship_id": "4181603792", 
-    "ship_name": "Tashkent (OLD)", 
-    "status_code": 404, 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/en/Ship:Tashkent%20%28OLD%29"
-  }, 
-  {
-    "id_str": "PRSD109", 
-    "nation": "ussr", 
-    "ship_id": "4180555216", 
-    "ship_name": "Kiev (OLD)", 
-    "status_code": 404, 
-    "tier": 7, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/en/Ship:Kiev%20%28OLD%29"
   }, 
   {
     "id_str": "PRSD110", 
@@ -4772,17 +4354,6 @@
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/en/Ship:Kiev"
-  }, 
-  {
-    "id_str": "PRSD309", 
-    "nation": "ussr", 
-    "ship_id": "3970840016", 
-    "ship_name": "IDS_PRSD309", 
-    "status_code": 404, 
-    "tier": 9, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/en/Ship:IDS_PRSD309"
   }, 
   {
     "id_str": "PRSD310", 
