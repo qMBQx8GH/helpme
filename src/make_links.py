@@ -12,12 +12,13 @@ links = []
 with open('Wiki.ru\\out\\links.json') as f:
     ships = json.load(f)
     for ship in ships:
-        links.append({
-            "ship_id": ship["ship_id"],
-            "url": ship["url"],
-            "title": ship["title"],
-            "ship_name":  ship["ship_name"],
-        })
+        if ship["status_code"] == 200:
+            links.append({
+                "ship_id": ship["ship_id"],
+                "url": ship["url"],
+                "title": ship["title"],
+                "ship_name":  ship["ship_name"],
+            })
 
 r = re.compile('(https://forum\\.worldofwarships\\.ru/topic/[0-9]+-)', )
 with open('Forum.ru\\out\\links.json') as f:
