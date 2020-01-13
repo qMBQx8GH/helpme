@@ -2181,6 +2181,26 @@
     "tier": 11,
     "type": "Auxiliary"
   },
+  "3655218480": {
+    "artillery": {
+      "3348081968": [
+        2,
+        2
+      ]
+    },
+    "id_str": "PWSD610",
+    "name": "IDS_PWSD610",
+    "nation": "europe",
+    "sort": 110,
+    "tier": 10,
+    "torpedoes": {
+      "3347459376": [
+        5,
+        3
+      ]
+    },
+    "type": "Destroyer"
+  },
   "3655251408": {
     "artillery": {
       "3345984976": [
@@ -10209,6 +10229,26 @@
     },
     "type": "Destroyer"
   },
+  "4179506480": {
+    "artillery": {
+      "3349130544": [
+        2,
+        2
+      ]
+    },
+    "id_str": "PWSD110",
+    "name": "IDS_PWSD110",
+    "nation": "europe",
+    "sort": 110,
+    "tier": 10,
+    "torpedoes": {
+      "3348507952": [
+        5,
+        5
+      ]
+    },
+    "type": "Destroyer"
+  },
   "4179506640": {
     "artillery": {
       "3339693520": [
@@ -11131,6 +11171,26 @@
       "3454414032": [
         5,
         5
+      ]
+    },
+    "type": "Destroyer"
+  },
+  "4180555056": {
+    "artillery": {
+      "3455036720": [
+        2,
+        2
+      ]
+    },
+    "id_str": "PWSD109",
+    "name": "IDS_PWSD109",
+    "nation": "europe",
+    "sort": 109,
+    "tier": 9,
+    "torpedoes": {
+      "3454414128": [
+        4,
+        4
       ]
     },
     "type": "Destroyer"
@@ -12098,6 +12158,26 @@
       "3559271632": [
         5,
         5
+      ]
+    },
+    "type": "Destroyer"
+  },
+  "4181603632": {
+    "artillery": {
+      "3559894320": [
+        2,
+        2
+      ]
+    },
+    "id_str": "PWSD108",
+    "name": "IDS_PWSD108",
+    "nation": "europe",
+    "sort": 108,
+    "tier": 8,
+    "torpedoes": {
+      "3559271728": [
+        3,
+        3
       ]
     },
     "type": "Destroyer"
@@ -13320,6 +13400,28 @@
     },
     "type": "Destroyer"
   },
+  "4182652208": {
+    "artillery": {
+      "3663703344": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PWSD107",
+    "name": "IDS_PWSD107",
+    "nation": "europe",
+    "sort": 107,
+    "tier": 7,
+    "torpedoes": {
+      "3663080752": [
+        3,
+        3
+      ]
+    },
+    "type": "Destroyer"
+  },
   "4182652368": {
     "artillery": {
       "3455036880": [
@@ -14349,6 +14451,27 @@
         3
       ],
       "3766889680": [
+        3,
+        3
+      ]
+    },
+    "type": "Destroyer"
+  },
+  "4183700784": {
+    "artillery": {
+      "3769609520": [
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PWSD106",
+    "name": "IDS_PWSD106",
+    "nation": "europe",
+    "sort": 106,
+    "tier": 6,
+    "torpedoes": {
+      "3768986928": [
         3,
         3
       ]
@@ -15556,6 +15679,30 @@
     },
     "type": "Destroyer"
   },
+  "4184749360": {
+    "artillery": {
+      "3873418544": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    "id_str": "PWSD105",
+    "name": "IDS_PWSD105",
+    "nation": "europe",
+    "sort": 105,
+    "tier": 5,
+    "torpedoes": {
+      "3873844528": [
+        3,
+        3
+      ]
+    },
+    "type": "Destroyer"
+  },
   "4184749520": {
     "artillery": {
       "3853495760": [
@@ -16540,6 +16687,30 @@
         3
       ],
       "3978702032": [
+        3,
+        3
+      ]
+    },
+    "type": "Destroyer"
+  },
+  "4185797936": {
+    "artillery": {
+      "3978276144": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    "id_str": "PWSD104",
+    "name": "IDS_PWSD104",
+    "nation": "europe",
+    "sort": 104,
+    "tier": 4,
+    "torpedoes": {
+      "3977653552": [
         3,
         3
       ]
@@ -17553,6 +17724,30 @@
     },
     "type": "Destroyer"
   },
+  "4186846512": {
+    "artillery": {
+      "4084182320": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "id_str": "PWSD103",
+    "name": "IDS_PWSD103",
+    "nation": "europe",
+    "sort": 103,
+    "tier": 3,
+    "torpedoes": {
+      "4083559728": [
+        2,
+        4
+      ]
+    },
+    "type": "Destroyer"
+  },
   "4186846672": {
     "artillery": {
       "4073696720": [
@@ -18432,6 +18627,28 @@
     },
     "type": "Destroyer"
   },
+  "4187895088": {
+    "artillery": {
+      "4189039920": [
+        1,
+        1
+      ]
+    },
+    "id_str": "PWSD102",
+    "name": "IDS_PWSD102",
+    "nation": "europe",
+    "sort": 102,
+    "tier": 2,
+    "torpedoes": {
+      "4188417328": [
+        2,
+        2,
+        3,
+        3
+      ]
+    },
+    "type": "Destroyer"
+  },
   "4187895248": {
     "artillery": {
       "4168068560": [
@@ -18950,6 +19167,22 @@
       "planes": "0",
       "winrate": "48.92"
     },
+    "sort": 201,
+    "tier": 1,
+    "type": "Cruiser"
+  },
+  "4188976432": {
+    "artillery": {
+      "4293897520": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "id_str": "PWSC101",
+    "name": "IDS_PWSC101",
+    "nation": "europe",
     "sort": 201,
     "tier": 1,
     "type": "Cruiser"
