@@ -92,11 +92,11 @@
     "nation": "usa", 
     "ship_id": "4293867504", 
     "ship_name": "S. Carolina", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 3, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:S.%20Carolina"
+    "url": "http://wiki.wargaming.net/ru/Ship:S._Carolina"
   }, 
   {
     "id_str": "PASB004", 
@@ -118,7 +118,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:New%20York"
+    "url": "http://wiki.wargaming.net/ru/Ship:New_York"
   }, 
   {
     "id_str": "PASB008", 
@@ -136,22 +136,22 @@
     "nation": "usa", 
     "ship_id": "4282333168", 
     "ship_name": "N. Carolina", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 8, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:N.%20Carolina"
+    "url": "http://wiki.wargaming.net/ru/Ship:N._Carolina"
   }, 
   {
     "id_str": "PASB013", 
     "nation": "usa", 
     "ship_id": "4281284592", 
     "ship_name": "Arkansas B", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 4, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Arkansas%20B"
+    "url": "http://wiki.wargaming.net/ru/Ship:Arkansas_B"
   }, 
   {
     "id_str": "PASB017", 
@@ -184,7 +184,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:New%20Mexico"
+    "url": "http://wiki.wargaming.net/ru/Ship:New_Mexico"
   }, 
   {
     "id_str": "PASB506", 
@@ -206,7 +206,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:W.%20Virginia%201941"
+    "url": "http://wiki.wargaming.net/ru/Ship:W._Virginia_1941"
   }, 
   {
     "id_str": "PASB508", 
@@ -261,7 +261,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Massachusetts%20B"
+    "url": "http://wiki.wargaming.net/ru/Ship:Massachusetts_B"
   }, 
   {
     "id_str": "PASB705", 
@@ -294,7 +294,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Alabama%20ST"
+    "url": "http://wiki.wargaming.net/ru/Ship:Alabama_ST"
   }, 
   {
     "id_str": "PASB729", 
@@ -316,7 +316,7 @@
     "tier": 3, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:South%20Carolina"
+    "url": "http://wiki.wargaming.net/ru/Ship:South_Carolina"
   }, 
   {
     "id_str": "PASB802", 
@@ -338,7 +338,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Montana%20P"
+    "url": "http://wiki.wargaming.net/ru/Ship:Montana_P"
   }, 
   {
     "id_str": "PASB917", 
@@ -448,7 +448,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Des%20Moines"
+    "url": "http://wiki.wargaming.net/ru/Ship:Des_Moines"
   }, 
   {
     "id_str": "PASC024", 
@@ -477,11 +477,11 @@
     "nation": "usa", 
     "ship_id": "4247697392", 
     "ship_name": "Marblehead L", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 5, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Marblehead%20L"
+    "url": "http://wiki.wargaming.net/ru/Ship:Marblehead_L"
   }, 
   {
     "id_str": "PASC106", 
@@ -503,7 +503,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:New%20Orleans"
+    "url": "http://wiki.wargaming.net/ru/Ship:New_Orleans"
   }, 
   {
     "id_str": "PASC108", 
@@ -646,7 +646,7 @@
     "tier": 9, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Alaska%20B"
+    "url": "http://wiki.wargaming.net/ru/Ship:Alaska_B"
   }, 
   {
     "id_str": "PASC610", 
@@ -657,7 +657,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Puerto%20Rico"
+    "url": "http://wiki.wargaming.net/ru/Ship:Puerto_Rico"
   }, 
   {
     "id_str": "PASC707", 
@@ -690,7 +690,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:AL%20Montpelier"
+    "url": "http://wiki.wargaming.net/ru/Ship:AL_Montpelier"
   }, 
   {
     "id_str": "PASC802", 
@@ -921,7 +921,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Sims%20B"
+    "url": "http://wiki.wargaming.net/ru/Ship:Sims_B"
   }, 
   {
     "id_str": "PASD709", 
@@ -950,11 +950,11 @@
     "nation": "usa", 
     "ship_id": "3445503984", 
     "ship_name": "Gearing P", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 10, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Gearing%20P"
+    "url": "http://wiki.wargaming.net/ru/Ship:Gearing_P"
   }, 
   {
     "id_str": "PASD913", 
@@ -1031,7 +1031,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Ark%20Royal"
+    "url": "http://wiki.wargaming.net/ru/Ship:Ark_Royal"
   }, 
   {
     "id_str": "PBSB002", 
@@ -1075,7 +1075,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Iron%20Duke"
+    "url": "http://wiki.wargaming.net/ru/Ship:Iron_Duke"
   }, 
   {
     "id_str": "PBSB106", 
@@ -1086,7 +1086,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Queen%20Elizabeth"
+    "url": "http://wiki.wargaming.net/ru/Ship:Queen_Elizabeth"
   }, 
   {
     "id_str": "PBSB107", 
@@ -1097,7 +1097,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:King%20George%20V"
+    "url": "http://wiki.wargaming.net/ru/Ship:King_George_V"
   }, 
   {
     "id_str": "PBSB108", 
@@ -1207,7 +1207,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Duke%20of%20York"
+    "url": "http://wiki.wargaming.net/ru/Ship:Duke_of_York"
   }, 
   {
     "id_str": "PBSB910", 
@@ -1240,7 +1240,7 @@
     "tier": 1, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Black%20Swan"
+    "url": "http://wiki.wargaming.net/ru/Ship:Black_Swan"
   }, 
   {
     "id_str": "PBSC102", 
@@ -1724,7 +1724,7 @@
     "tier": 9, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Jean%20Bart"
+    "url": "http://wiki.wargaming.net/ru/Ship:Jean_Bart"
   }, 
   {
     "id_str": "PFSC101", 
@@ -1742,7 +1742,7 @@
     "nation": "france", 
     "ship_id": "4187928400", 
     "ship_name": "Jurien", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 2, 
     "title": "Wiki", 
     "type": "Cruiser", 
@@ -1779,7 +1779,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%C3%89mile%20Bertin"
+    "url": "http://wiki.wargaming.net/ru/Ship:%C3%89mile_Bertin"
   }, 
   {
     "id_str": "PFSC106", 
@@ -1812,7 +1812,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Charles%20Martel"
+    "url": "http://wiki.wargaming.net/ru/Ship:Charles_Martel"
   }, 
   {
     "id_str": "PFSC109", 
@@ -1834,7 +1834,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Henri%20IV"
+    "url": "http://wiki.wargaming.net/ru/Ship:Henri_IV"
   }, 
   {
     "id_str": "PFSC506", 
@@ -1845,7 +1845,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:De%20Grasse"
+    "url": "http://wiki.wargaming.net/ru/Ship:De_Grasse"
   }, 
   {
     "id_str": "PFSC508", 
@@ -1889,7 +1889,7 @@
     "tier": 2, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:En.%20Gabolde"
+    "url": "http://wiki.wargaming.net/ru/Ship:En._Gabolde"
   }, 
   {
     "id_str": "PFSD103", 
@@ -2021,7 +2021,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Le%20Terrible"
+    "url": "http://wiki.wargaming.net/ru/Ship:Le_Terrible"
   }, 
   {
     "id_str": "PFSD605", 
@@ -2054,7 +2054,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Graf%20Zeppelin"
+    "url": "http://wiki.wargaming.net/ru/Ship:Graf_Zeppelin"
   }, 
   {
     "id_str": "PGSA598", 
@@ -2065,7 +2065,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Graf%20Zeppelin%20B"
+    "url": "http://wiki.wargaming.net/ru/Ship:Graf_Zeppelin_B"
   }, 
   {
     "id_str": "PGSB002", 
@@ -2149,44 +2149,44 @@
     "nation": "germany", 
     "ship_id": "4180621104", 
     "ship_name": "F. der Gro\u00dfe", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 9, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:F.%20der%20Gro%C3%9Fe"
+    "url": "http://wiki.wargaming.net/ru/Ship:F._der_Gro%C3%9Fe"
   }, 
   {
     "id_str": "PGSB110", 
     "nation": "germany", 
     "ship_id": "4179572528", 
     "ship_name": "G. Kurf\u00fcrst", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 10, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:G.%20Kurf%C3%BCrst"
+    "url": "http://wiki.wargaming.net/ru/Ship:G._Kurf%C3%BCrst"
   }, 
   {
     "id_str": "PGSB503", 
     "nation": "germany", 
     "ship_id": "3767482160", 
     "ship_name": "K. Albert", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 3, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:K.%20Albert"
+    "url": "http://wiki.wargaming.net/ru/Ship:K._Albert"
   }, 
   {
     "id_str": "PGSB506", 
     "nation": "germany", 
     "ship_id": "3764336432", 
     "ship_name": "P. E. Friedrich", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 6, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:P.%20E.%20Friedrich"
+    "url": "http://wiki.wargaming.net/ru/Ship:P._E._Friedrich"
   }, 
   {
     "id_str": "PGSB507", 
@@ -2219,7 +2219,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Scharnhorst%20B"
+    "url": "http://wiki.wargaming.net/ru/Ship:Scharnhorst_B"
   }, 
   {
     "id_str": "PGSB598", 
@@ -2230,18 +2230,18 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Tirpitz%20B"
+    "url": "http://wiki.wargaming.net/ru/Ship:Tirpitz_B"
   }, 
   {
     "id_str": "PGSB910", 
     "nation": "germany", 
     "ship_id": "3340711728", 
     "ship_name": "G. Kurf\u00fcrst", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 10, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:G.%20Kurf%C3%BCrst"
+    "url": "http://wiki.wargaming.net/ru/Ship:G._Kurf%C3%BCrst"
   }, 
   {
     "id_str": "PGSC001", 
@@ -2325,7 +2325,7 @@
     "nation": "germany", 
     "ship_id": "4181636912", 
     "ship_name": "Hipper", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
@@ -2369,11 +2369,11 @@
     "nation": "germany", 
     "ship_id": "3764303664", 
     "ship_name": "Graf Spee", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 6, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Graf%20Spee"
+    "url": "http://wiki.wargaming.net/ru/Ship:Graf_Spee"
   }, 
   {
     "id_str": "PGSC508", 
@@ -2384,7 +2384,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Prinz%20Eugen"
+    "url": "http://wiki.wargaming.net/ru/Ship:Prinz_Eugen"
   }, 
   {
     "id_str": "PGSC509", 
@@ -2413,11 +2413,11 @@
     "nation": "germany", 
     "ship_id": "3554588464", 
     "ship_name": "HSF Graf Spee", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 6, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:HSF%20Graf%20Spee"
+    "url": "http://wiki.wargaming.net/ru/Ship:HSF_Graf_Spee"
   }, 
   {
     "id_str": "PGSC910", 
@@ -2479,7 +2479,7 @@
     "nation": "germany", 
     "ship_id": "4183701296", 
     "ship_name": "Gaede", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 6, 
     "title": "Wiki", 
     "type": "Destroyer", 
@@ -2490,7 +2490,7 @@
     "nation": "germany", 
     "ship_id": "4182652720", 
     "ship_name": "Maass", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 7, 
     "title": "Wiki", 
     "type": "Destroyer", 
@@ -2560,7 +2560,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Giulio%20Cesare"
+    "url": "http://wiki.wargaming.net/ru/Ship:Giulio_Cesare"
   }, 
   {
     "id_str": "PISB508", 
@@ -2582,7 +2582,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Giunio%20Bruto"
+    "url": "http://wiki.wargaming.net/ru/Ship:Giunio_Bruto"
   }, 
   {
     "id_str": "PISC101", 
@@ -2604,7 +2604,7 @@
     "tier": 2, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Nino%20Bixio"
+    "url": "http://wiki.wargaming.net/ru/Ship:Nino_Bixio"
   }, 
   {
     "id_str": "PISC103", 
@@ -2622,7 +2622,7 @@
     "nation": "italy", 
     "ship_id": "4185831152", 
     "ship_name": "Giussano", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 4, 
     "title": "Wiki", 
     "type": "Cruiser", 
@@ -2633,7 +2633,7 @@
     "nation": "italy", 
     "ship_id": "4184782576", 
     "ship_name": "Montecuccoli", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 5, 
     "title": "Wiki", 
     "type": "Cruiser", 
@@ -2714,14 +2714,14 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Duca%20d%27Aosta"
+    "url": "http://wiki.wargaming.net/ru/Ship:Duca_d%27Aosta"
   }, 
   {
     "id_str": "PISC507", 
     "nation": "italy", 
     "ship_id": "3763255024", 
     "ship_name": "Abruzzi", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
@@ -2758,7 +2758,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Paolo%20Emilio"
+    "url": "http://wiki.wargaming.net/ru/Ship:Paolo_Emilio"
   }, 
   {
     "id_str": "PJSA104", 
@@ -2989,7 +2989,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:ARP%20Kong%C5%8D"
+    "url": "http://wiki.wargaming.net/ru/Ship:ARP_Kong%C5%8D"
   }, 
   {
     "id_str": "PJSB706", 
@@ -3000,7 +3000,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:ARP%20Kirishima"
+    "url": "http://wiki.wargaming.net/ru/Ship:ARP_Kirishima"
   }, 
   {
     "id_str": "PJSB707", 
@@ -3011,7 +3011,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:ARP%20Haruna"
+    "url": "http://wiki.wargaming.net/ru/Ship:ARP_Haruna"
   }, 
   {
     "id_str": "PJSB708", 
@@ -3022,7 +3022,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:ARP%20Hiei"
+    "url": "http://wiki.wargaming.net/ru/Ship:ARP_Hiei"
   }, 
   {
     "id_str": "PJSB799", 
@@ -3033,7 +3033,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:ARP%20Kirishima"
+    "url": "http://wiki.wargaming.net/ru/Ship:ARP_Kirishima"
   }, 
   {
     "id_str": "PJSB801", 
@@ -3183,11 +3183,11 @@
     "nation": "japan", 
     "ship_id": "4267620048", 
     "ship_name": "Iwaki A", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 4, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Iwaki%20A"
+    "url": "http://wiki.wargaming.net/ru/Ship:Iwaki_A"
   }, 
   {
     "id_str": "PJSC034", 
@@ -3286,7 +3286,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Atago%20B"
+    "url": "http://wiki.wargaming.net/ru/Ship:Atago_B"
   }, 
   {
     "id_str": "PJSC705", 
@@ -3297,7 +3297,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:ARP%20My%C5%8Dk%C5%8D"
+    "url": "http://wiki.wargaming.net/ru/Ship:ARP_My%C5%8Dk%C5%8D"
   }, 
   {
     "id_str": "PJSC707", 
@@ -3308,7 +3308,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:ARP%20Ashigara"
+    "url": "http://wiki.wargaming.net/ru/Ship:ARP_Ashigara"
   }, 
   {
     "id_str": "PJSC708", 
@@ -3319,7 +3319,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:ARP%20Takao"
+    "url": "http://wiki.wargaming.net/ru/Ship:ARP_Takao"
   }, 
   {
     "id_str": "PJSC709", 
@@ -3330,29 +3330,29 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:ARP%20Haguro"
+    "url": "http://wiki.wargaming.net/ru/Ship:ARP_Haguro"
   }, 
   {
     "id_str": "PJSC717", 
     "nation": "japan", 
     "ship_id": "3543054032", 
     "ship_name": "S. Dragon", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:S.%20Dragon"
+    "url": "http://wiki.wargaming.net/ru/Ship:Southern_Dragon"
   }, 
   {
     "id_str": "PJSC727", 
     "nation": "japan", 
     "ship_id": "3532568272", 
     "ship_name": "E. Dragon", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:E.%20Dragon"
+    "url": "http://wiki.wargaming.net/ru/Ship:E._Dragon"
   }, 
   {
     "id_str": "PJSC737", 
@@ -3363,7 +3363,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:ARP%20Nachi"
+    "url": "http://wiki.wargaming.net/ru/Ship:ARP_Nachi"
   }, 
   {
     "id_str": "PJSC799", 
@@ -3374,18 +3374,18 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:ARP%20Takao"
+    "url": "http://wiki.wargaming.net/ru/Ship:ARP_Takao"
   }, 
   {
     "id_str": "PJSC810", 
     "nation": "japan", 
     "ship_id": "3445536464", 
     "ship_name": "Za\u014d P", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 10, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Za%C5%8D%20P"
+    "url": "http://wiki.wargaming.net/ru/Ship:Za%C5%8D_P"
   }, 
   {
     "id_str": "PJSC837", 
@@ -3480,11 +3480,11 @@
     "nation": "japan", 
     "ship_id": "4280170192", 
     "ship_name": "Tachibana L", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 2, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Tachibana%20L"
+    "url": "http://wiki.wargaming.net/ru/Ship:Tachibana_L"
   }, 
   {
     "id_str": "PJSD017", 
@@ -3528,7 +3528,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Kamikaze%20R"
+    "url": "http://wiki.wargaming.net/ru/Ship:Kamikaze_R"
   }, 
   {
     "id_str": "PJSD105", 
@@ -3682,7 +3682,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Asashio%20B"
+    "url": "http://wiki.wargaming.net/ru/Ship:Asashio_B"
   }, 
   {
     "id_str": "PJSD706", 
@@ -3704,7 +3704,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:HSF%20Harekaze"
+    "url": "http://wiki.wargaming.net/ru/Ship:HSF_Harekaze"
   }, 
   {
     "id_str": "PJSD718", 
@@ -3715,7 +3715,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:AL%20Yukikaze"
+    "url": "http://wiki.wargaming.net/ru/Ship:AL_Yukikaze"
   }, 
   {
     "id_str": "PJSD803", 
@@ -3744,11 +3744,11 @@
     "nation": "ussr", 
     "ship_id": "4293866960", 
     "ship_name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 I", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 4, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20I"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_I"
   }, 
   {
     "id_str": "PRSB103", 
@@ -3759,7 +3759,7 @@
     "tier": 3, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9A%D0%BD%D1%8F%D0%B7%D1%8C%20%D0%A1%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9A%D0%BD%D1%8F%D0%B7%D1%8C_%D0%A1%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2"
   }, 
   {
     "id_str": "PRSB104", 
@@ -3781,7 +3781,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9F%D1%91%D1%82%D1%80%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9F%D1%91%D1%82%D1%80_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9"
   }, 
   {
     "id_str": "PRSB106", 
@@ -3821,11 +3821,11 @@
     "nation": "ussr", 
     "ship_id": "4180620752", 
     "ship_name": "\u0421\u043e\u0432. \u0421\u043e\u044e\u0437", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 9, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A1%D0%BE%D0%B2.%20%D0%A1%D0%BE%D1%8E%D0%B7"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A1%D0%BE%D0%B2._%D0%A1%D0%BE%D1%8E%D0%B7"
   }, 
   {
     "id_str": "PRSB110", 
@@ -3843,7 +3843,7 @@
     "nation": "ussr", 
     "ship_id": "3765384656", 
     "ship_name": "\u041e\u043a\u0442.\u00a0\u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u044f", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
@@ -3931,11 +3931,11 @@
     "nation": "ussr", 
     "ship_id": "4284397008", 
     "ship_name": "\u0414\u0438\u0430\u043d\u0430 L", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 2, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%94%D0%B8%D0%B0%D0%BD%D0%B0%20L"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%94%D0%B8%D0%B0%D0%BD%D0%B0_L"
   }, 
   {
     "id_str": "PRSC101", 
@@ -4030,11 +4030,11 @@
     "nation": "ussr", 
     "ship_id": "4180587984", 
     "ship_name": "\u0414\u043c. \u0414\u043e\u043d\u0441\u043a\u043e\u0439", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 9, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%94%D0%BC.%20%D0%94%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B9"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%94%D0%BC._%D0%94%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B9"
   }, 
   {
     "id_str": "PRSC110", 
@@ -4067,7 +4067,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9%20%D0%9A%D1%80%D1%8B%D0%BC"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%9A%D1%80%D1%8B%D0%BC"
   }, 
   {
     "id_str": "PRSC506", 
@@ -4085,7 +4085,7 @@
     "nation": "ussr", 
     "ship_id": "3762206160", 
     "ship_name": "\u041a\u0443\u0442\u0443\u0437\u043e\u0432", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
@@ -4140,18 +4140,18 @@
     "nation": "ussr", 
     "ship_id": "3749623248", 
     "ship_name": "\u0421\u0442\u0430\u043b\u0438\u043d\u0433\u0440\u0430\u0434 2", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 10, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%202"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4_2"
   }, 
   {
     "id_str": "PRSC606", 
     "nation": "ussr", 
     "ship_id": "3659445712", 
     "ship_name": "\u041c\u0430\u043a\u0430\u0440\u043e\u0432", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 6, 
     "title": "Wiki", 
     "type": "Cruiser", 
@@ -4188,7 +4188,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Test%20Ship"
+    "url": "http://wiki.wargaming.net/ru/Ship:Test_Ship"
   }, 
   {
     "id_str": "PRSD001", 
@@ -4441,7 +4441,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Nueve%20de%20Julio"
+    "url": "http://wiki.wargaming.net/ru/Ship:Nueve_de_Julio"
   }, 
   {
     "id_str": "PWSB504", 
@@ -4452,7 +4452,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Viribus%20Unitis"
+    "url": "http://wiki.wargaming.net/ru/Ship:Viribus_Unitis"
   }, 
   {
     "id_str": "PWSC101", 
@@ -4496,7 +4496,7 @@
     "tier": 4, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Klas%20Horn"
+    "url": "http://wiki.wargaming.net/ru/Ship:Klas_Horn"
   }, 
   {
     "id_str": "PWSD105", 
@@ -4672,7 +4672,7 @@
     "tier": 3, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Phra%20Ruang"
+    "url": "http://wiki.wargaming.net/ru/Ship:Phra_Ruang"
   }, 
   {
     "id_str": "PZSD104", 
@@ -4716,7 +4716,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Gadjah%20Mada"
+    "url": "http://wiki.wargaming.net/ru/Ship:Gadjah_Mada"
   }, 
   {
     "id_str": "PZSD108", 
@@ -4738,7 +4738,7 @@
     "tier": 9, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Chung%20Mu"
+    "url": "http://wiki.wargaming.net/ru/Ship:Chung_Mu"
   }, 
   {
     "id_str": "PZSD110", 

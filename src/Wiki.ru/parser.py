@@ -7,7 +7,39 @@ import requests
 
 os.environ["LANGUAGE"] = 'ru'
 tr = gettext.translation('global', '..\\res\\texts')
-
+nm = {
+    'Zaō P': 'Zaō',
+    'Николай I': 'Император Николай I',
+    'Tachibana L': 'Tachibana Lima',
+    'Дм. Донской': 'Дмитрий Донской',
+    'Hipper': 'Admiral Hipper',
+    'Arkansas B': 'Arkansas Beta',
+    'Диана L': 'Диана Lima',
+    'Marblehead L': 'Marblehead Lima',
+    'F. der Große': 'Friedrich der Große',
+    'Abruzzi': 'Duca degli Abruzzi',
+    'Макаров': 'Адмирал Макаров',
+    'S. Carolina': 'South Carolina',
+    'Сов. Союз': 'Советский Союз',
+    'HSF Graf Spee': 'Admiral Graf Spee',
+    'Graf Spee': 'Admiral Graf Spee',
+    'N. Carolina': 'North Carolina',
+    'G. Kurfürst': 'Großer Kurfürst',
+    'Gaede': 'Ernst Gaede',
+    'Кутузов': 'Михаил Кутузов',
+    'P. E. Friedrich': 'Prinz Eitel Friedrich',
+    'Gearing P': 'Gearing',
+    'Jurien': 'Jurien de la Gravière',
+    'Сталинград 2': 'Сталинград',
+    'K. Albert': 'König Albert',
+    'Окт. революция': 'Октябрьская революция',
+    'Iwaki A': 'Iwaki Alpha',
+    'E. Dragon': 'Eastern Dragon',
+    'Maass': 'Leberecht Maass',
+    'S. Dragon': 'Southern Dragon',
+    'Montecuccoli': 'Raimondo Montecuccoli',
+    'Giussano': 'Alberto di Giussano',
+}
 f = open('..\\db\\ship.json')
 ships = json.load(f)
 f.close()
@@ -30,15 +62,21 @@ for ship_id in ships:
         continue
 
     ship_name = tr.gettext('IDS_' + ship['id_str']).decode('utf8').strip("[]")
-    if  ship_name.endswith('(old)') or ship_name.endswith('(OLD)'):
+    if ship_name.endswith('(old)') or ship_name.endswith('(OLD)'):
         continue
     if ship_name.startswith('IDS_') or ship_name.startswith('Disabled:'):
         continue
 
-    wiki_url = "http://wiki.wargaming.net/ru/Ship:" + urllib.quote(ship_name.encode('utf8'))
-    if ship_id in old_links and old_links[ship_id]["status_code"] == 200:
+    wiki_url = "http://wiki.wargaming.net/ru/Ship:" + urllib.quote(ship_name.replace(' ', '_').encode('utf8'))
+    if ship_id in old_links and old_links[ship_id]["status_code"] == 200 and old_links[ship_id]["ship_name"] == ship_name:
         wiki_status = 200
     else:
+        wiki_page = requests.get(wiki_url)
+        wiki_status = wiki_page.status_code
+
+    if wiki_status == 404 and ship_name.encode('utf8') in nm:
+        wiki_url = "http://wiki.wargaming.net/ru/Ship:" + urllib.quote(nm[ship_name.encode('utf8')].replace(' ', '_'))
+        print wiki_url
         wiki_page = requests.get(wiki_url)
         wiki_status = wiki_page.status_code
 
@@ -53,8 +91,9 @@ for ship_id in ships:
         "url": wiki_url,
         "status_code": wiki_status,
     }
+
     if wiki_status != 200:
-        print "{} {}".format(wiki_status, ship_name.encode('utf8', errors='ignore'))
+        print "    '{}': '{}',".format(ship_name.encode('utf8', errors='ignore'), wiki_status)
 
 newlist = sorted(links.values(), key=lambda k: k['id_str'])
 with open(out_file, 'w') as outfile:
