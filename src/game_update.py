@@ -47,3 +47,27 @@ res = subprocess.run(
 )
 if res.returncode != 0:
     exit(1)
+
+res = subprocess.run(
+    [python, 'parser.py'],
+    shell=True,
+    cwd='Wiki.en'
+)
+if res.returncode != 0:
+    exit(1)
+
+res = subprocess.run(
+    [python, 'makehtml.py'],
+    shell=True,
+    cwd='Wiki.en'
+)
+if res.returncode != 0:
+    exit(1)
+
+res = subprocess.run(
+    [python, 'make_links_en.py'],
+    shell=True,
+    cwd='.'
+)
+if res.returncode != 0:
+    exit(1)
