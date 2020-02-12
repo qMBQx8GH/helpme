@@ -22,8 +22,7 @@ with open('Wiki.en\\out\\links.json') as f:
 
 with open('db\\ship.json') as f:
     ships = json.load(f)
-    for ship_id in ships:
-        ship = ships[ship_id]
+    for ship_id, ship in ships.items():
         ship_name = tr.gettext('IDS_' + ship['id_str'])
         search_query = "{} wows review".format(ship_name)
         url = "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query={}".format(urllib.quote(search_query))

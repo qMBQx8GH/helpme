@@ -26,6 +26,27 @@
     "tier": 10,
     "type": "Cruiser"
   },
+  "3248371408": {
+    "artillery": {
+      "3554651856": [
+        1,
+        1,
+        1
+      ]
+    },
+    "id_str": "PJSD998",
+    "name": "IDS_PJSD998",
+    "nation": "japan",
+    "sort": 108,
+    "tier": 8,
+    "torpedoes": {
+      "3547737808": [
+        4,
+        4
+      ]
+    },
+    "type": "Destroyer"
+  },
   "3315513040": {
     "artillery": {
       "3273633488": [
@@ -181,6 +202,26 @@
     "sort": 310,
     "tier": 10,
     "type": "Battleship"
+  },
+  "3340645680": {
+    "artillery": {
+      "3347033392": [
+        2,
+        2
+      ]
+    },
+    "id_str": "PWSD910",
+    "name": "IDS_PWSD910",
+    "nation": "europe",
+    "sort": 110,
+    "tier": 10,
+    "torpedoes": {
+      "3346410800": [
+        5,
+        5
+      ]
+    },
+    "type": "Destroyer"
   },
   "3340645840": {
     "artillery": {
@@ -2967,6 +3008,27 @@
     },
     "type": "Cruiser"
   },
+  "3750672176": {
+    "artillery": {
+      "3451891504": [
+        3,
+        3,
+        3
+      ]
+    },
+    "id_str": "PGSC519",
+    "name": "IDS_PGSC519",
+    "nation": "germany",
+    "sort": 209,
+    "tier": 9,
+    "torpedoes": {
+      "3450220336": [
+        4,
+        4
+      ]
+    },
+    "type": "Cruiser"
+  },
   "3751687888": {
     "artillery": {
       "3473911504": [
@@ -3697,6 +3759,50 @@
     "tier": 3,
     "type": "Cruiser"
   },
+  "3759585072": {
+    "id_str": "PGSS510",
+    "name": "IDS_PGSS510",
+    "nation": "germany",
+    "sort": 85,
+    "tier": 10,
+    "torpedoes": {
+      "3327536944": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "type": "Submarine"
+  },
+  "3759585264": {
+    "id_str": "PASS510",
+    "name": "IDS_PASS510",
+    "nation": "usa",
+    "sort": 85,
+    "tier": 10,
+    "torpedoes": {
+      "3343265776": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "type": "Submarine"
+  },
   "3760076080": {
     "artillery": {
       "3350179120": [
@@ -3986,6 +4092,21 @@
     "id_str": "PRSB510",
     "name": "IDS_PRSB510",
     "nation": "ussr",
+    "sort": 310,
+    "tier": 10,
+    "type": "Battleship"
+  },
+  "3760142032": {
+    "artillery": {
+      "3268390608": [
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PJSB510",
+    "name": "IDS_PJSB510",
+    "nation": "japan",
     "sort": 310,
     "tier": 10,
     "type": "Battleship"
@@ -4378,6 +4499,24 @@
     "tier": 8,
     "type": "AirCarrier"
   },
+  "3761681872": {
+    "id_str": "PRSS508",
+    "name": "IDS_PRSS508",
+    "nation": "ussr",
+    "sort": 83,
+    "tier": 8,
+    "torpedoes": {
+      "3557174736": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "type": "Submarine"
+  },
   "3762173136": {
     "artillery": {
       "3559894224": [
@@ -4444,6 +4583,26 @@
       "3558223056": [
         5,
         5
+      ]
+    },
+    "type": "Destroyer"
+  },
+  "3762173232": {
+    "artillery": {
+      "3558845744": [
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PWSD508",
+    "name": "IDS_PWSD508",
+    "nation": "europe",
+    "sort": 108,
+    "tier": 8,
+    "torpedoes": {
+      "3558223152": [
+        4
       ]
     },
     "type": "Destroyer"
@@ -5492,8 +5651,8 @@
     "id_str": "PXSS507",
     "name": "IDS_PXSS507",
     "nation": "events",
-    "sort": 82,
-    "tier": 7,
+    "sort": 85,
+    "tier": 10,
     "torpedoes": {
       "3556125968": [
         1,
@@ -9547,8 +9706,8 @@
     "id_str": "PXSS207",
     "name": "IDS_PXSS207",
     "nation": "events",
-    "sort": 82,
-    "tier": 7,
+    "sort": 85,
+    "tier": 10,
     "torpedoes": {
       "3558223120": [
         1,
@@ -10163,6 +10322,68 @@
     "sort": 404,
     "tier": 4,
     "type": "AirCarrier"
+  },
+  "4179015120": {
+    "id_str": "PRSS110",
+    "name": "IDS_PRSS110",
+    "nation": "ussr",
+    "sort": 85,
+    "tier": 10,
+    "torpedoes": {
+      "3342216656": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "type": "Submarine"
+  },
+  "4179015472": {
+    "id_str": "PGSS110",
+    "name": "IDS_PGSS110",
+    "nation": "germany",
+    "sort": 85,
+    "tier": 10,
+    "torpedoes": {
+      "3328585520": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "type": "Submarine"
+  },
+  "4179015664": {
+    "id_str": "PASS110",
+    "name": "IDS_PASS110",
+    "nation": "usa",
+    "sort": 85,
+    "tier": 10,
+    "torpedoes": {
+      "3344314352": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "type": "Submarine"
   },
   "4179506384": {
     "artillery": {
@@ -12087,6 +12308,64 @@
     "sort": 309,
     "tier": 9,
     "type": "Battleship"
+  },
+  "4181112272": {
+    "id_str": "PRSS108",
+    "name": "IDS_PRSS108",
+    "nation": "ussr",
+    "sort": 83,
+    "tier": 8,
+    "torpedoes": {
+      "3556126160": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "type": "Submarine"
+  },
+  "4181112624": {
+    "id_str": "PGSS108",
+    "name": "IDS_PGSS108",
+    "nation": "germany",
+    "sort": 83,
+    "tier": 8,
+    "torpedoes": {
+      "3550883632": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "type": "Submarine"
+  },
+  "4181112816": {
+    "id_str": "PASS108",
+    "name": "IDS_PASS108",
+    "nation": "usa",
+    "sort": 83,
+    "tier": 8,
+    "torpedoes": {
+      "3555078128": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "type": "Submarine"
   },
   "4181603536": {
     "artillery": {
@@ -14386,6 +14665,59 @@
     "sort": 307,
     "tier": 7,
     "type": "Battleship"
+  },
+  "4183209424": {
+    "id_str": "PRSS106",
+    "name": "IDS_PRSS106",
+    "nation": "ussr",
+    "sort": 81,
+    "tier": 6,
+    "torpedoes": {
+      "3754307024": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "type": "Submarine"
+  },
+  "4183209776": {
+    "id_str": "PGSS106",
+    "name": "IDS_PGSS106",
+    "nation": "germany",
+    "sort": 81,
+    "tier": 6,
+    "torpedoes": {
+      "3762695984": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "type": "Submarine"
+  },
+  "4183209968": {
+    "id_str": "PASS106",
+    "name": "IDS_PASS106",
+    "nation": "usa",
+    "sort": 81,
+    "tier": 6,
+    "torpedoes": {
+      "3764793328": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "type": "Submarine"
   },
   "4183700688": {
     "artillery": {
@@ -17726,10 +18058,12 @@
   },
   "4186846512": {
     "artillery": {
+      "4083133744": [
+        1,
+        1,
+        1
+      ],
       "4084182320": [
-        1,
-        1,
-        1,
         1,
         1,
         1

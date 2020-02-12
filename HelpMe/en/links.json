@@ -168,12 +168,6 @@
     "url": "http://wiki.wargaming.net/en/Ship:Georgia"
   }, 
   {
-    "ship_id": "3455006704", 
-    "ship_name": "South Carolina", 
-    "title": "Wiki", 
-    "url": "http://wiki.wargaming.net/en/Ship:South%20Carolina"
-  }, 
-  {
     "ship_id": "3333371888", 
     "ship_name": "Montana", 
     "title": "Wiki", 
@@ -366,18 +360,6 @@
     "url": "http://wiki.wargaming.net/en/Ship:AL%20Montpelier"
   }, 
   {
-    "ship_id": "3451828208", 
-    "ship_name": "Erie", 
-    "title": "Wiki", 
-    "url": "http://wiki.wargaming.net/en/Ship:Erie"
-  }, 
-  {
-    "ship_id": "3450779632", 
-    "ship_name": "Erie", 
-    "title": "Wiki", 
-    "url": "http://wiki.wargaming.net/en/Ship:Erie"
-  }, 
-  {
     "ship_id": "4292753392", 
     "ship_name": "Sampson", 
     "title": "Wiki", 
@@ -484,12 +466,6 @@
     "ship_name": "Black", 
     "title": "Wiki", 
     "url": "http://wiki.wargaming.net/en/Ship:Black"
-  }, 
-  {
-    "ship_id": "3454941168", 
-    "ship_name": "Sampson", 
-    "title": "Wiki", 
-    "url": "http://wiki.wargaming.net/en/Ship:Sampson"
   }, 
   {
     "ship_id": "3445503984", 
@@ -1632,18 +1608,6 @@
     "url": "http://wiki.wargaming.net/en/Ship:ARP%20Kirishima"
   }, 
   {
-    "ship_id": "3455006416", 
-    "ship_name": "Kawachi", 
-    "title": "Wiki", 
-    "url": "http://wiki.wargaming.net/en/Ship:Kawachi"
-  }, 
-  {
-    "ship_id": "3453957840", 
-    "ship_name": "Kawachi", 
-    "title": "Wiki", 
-    "url": "http://wiki.wargaming.net/en/Ship:Kawachi"
-  }, 
-  {
     "ship_id": "3332323024", 
     "ship_name": "Yamato", 
     "title": "Wiki", 
@@ -1785,7 +1749,7 @@
     "ship_id": "3543054032", 
     "ship_name": "S. Dragon", 
     "title": "Wiki", 
-    "url": "http://wiki.wargaming.net/en/Ship:Southern_Dragon"
+    "url": "http://wiki.wargaming.net/en/Ship:S.%20Dragon"
   }, 
   {
     "ship_id": "3532568272", 
@@ -1810,18 +1774,6 @@
     "ship_name": "Za\u014d P", 
     "title": "Wiki", 
     "url": "http://wiki.wargaming.net/en/Ship:Za%C5%8D%20P"
-  }, 
-  {
-    "ship_id": "3417224912", 
-    "ship_name": "Hashidate", 
-    "title": "Wiki", 
-    "url": "http://wiki.wargaming.net/en/Ship:Hashidate"
-  }, 
-  {
-    "ship_id": "3416176336", 
-    "ship_name": "Hashidate", 
-    "title": "Wiki", 
-    "url": "http://wiki.wargaming.net/en/Ship:Hashidate"
   }, 
   {
     "ship_id": "3315513040", 
@@ -1990,12 +1942,6 @@
     "ship_name": "AL Yukikaze", 
     "title": "Wiki", 
     "url": "http://wiki.wargaming.net/en/Ship:AL%20Yukikaze"
-  }, 
-  {
-    "ship_id": "3452843728", 
-    "ship_name": "Isokaze", 
-    "title": "Wiki", 
-    "url": "http://wiki.wargaming.net/en/Ship:Isokaze"
   }, 
   {
     "ship_id": "3338548944", 
@@ -2388,6 +2334,66 @@
     "url": "http://wiki.wargaming.net/en/Ship:Viribus%20Unitis"
   }, 
   {
+    "ship_id": "4188976432", 
+    "ship_name": "Gryf", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Gryf"
+  }, 
+  {
+    "ship_id": "4187895088", 
+    "ship_name": "T\u00e1tra", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:T%C3%A1tra"
+  }, 
+  {
+    "ship_id": "4186846512", 
+    "ship_name": "Romulus", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Romulus"
+  }, 
+  {
+    "ship_id": "4185797936", 
+    "ship_name": "Klas Horn", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Klas%20Horn"
+  }, 
+  {
+    "ship_id": "4184749360", 
+    "ship_name": "Visby", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Visby"
+  }, 
+  {
+    "ship_id": "4183700784", 
+    "ship_name": "V\u00e4ster\u00e5s", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:V%C3%A4ster%C3%A5s"
+  }, 
+  {
+    "ship_id": "4182652208", 
+    "ship_name": "Sk\u00e5ne", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Sk%C3%A5ne"
+  }, 
+  {
+    "ship_id": "4181603632", 
+    "ship_name": "\u00d6land", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:%C3%96land"
+  }, 
+  {
+    "ship_id": "4180555056", 
+    "ship_name": "\u00d6sterg\u00f6tland", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:%C3%96sterg%C3%B6tland"
+  }, 
+  {
+    "ship_id": "4179506480", 
+    "ship_name": "Halland", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Halland"
+  }, 
+  {
     "ship_id": "3769513264", 
     "ship_name": "B\u0142yskawica", 
     "title": "Wiki", 
@@ -2398,6 +2404,12 @@
     "ship_name": "Friesland", 
     "title": "Wiki", 
     "url": "http://wiki.wargaming.net/en/Ship:Friesland"
+  }, 
+  {
+    "ship_id": "3655218480", 
+    "ship_name": "Sm\u00e5land", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Sm%C3%A5land"
   }, 
   {
     "ship_id": "3761190096", 
@@ -2552,9 +2564,19 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Orlan%20wows%20review"
   }, 
   {
+    "ship_id": "4181112624", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=U-190%20wows%20review"
+  }, 
+  {
     "ship_id": "4277090288", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Montana%20wows%20review"
+  }, 
+  {
+    "ship_id": "4179015472", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=U-2501%20wows%20review"
   }, 
   {
     "ship_id": "4291769616", 
@@ -2635,6 +2657,11 @@
     "ship_id": "4277024016", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Lancet%20wows%20review"
+  }, 
+  {
+    "ship_id": "3762173232", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Orkan%20wows%20review"
   }, 
   {
     "ship_id": "4181702640", 
@@ -2814,7 +2841,7 @@
   {
     "ship_id": "3452843728", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Isokaze%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PJSD803%20wows%20review"
   }, 
   {
     "ship_id": "4290655952", 
@@ -2832,9 +2859,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Arkansas%20B%20wows%20review"
   }, 
   {
-    "ship_id": "4181669328", 
+    "ship_id": "3248371408", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Vladivostok%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Arashi%20wows%20review"
   }, 
   {
     "ship_id": "3760076496", 
@@ -2879,7 +2906,7 @@
   {
     "ship_id": "3452876784", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Cimarron%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PASC803%20wows%20review"
   }, 
   {
     "ship_id": "4076779504", 
@@ -2904,7 +2931,7 @@
   {
     "ship_id": "3454941168", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Sampson%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PASD801%20wows%20review"
   }, 
   {
     "ship_id": "4180620752", 
@@ -2915,6 +2942,11 @@
     "ship_id": "4185798448", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=V-170%20wows%20review"
+  }, 
+  {
+    "ship_id": "4183209968", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Cachalot%20wows%20review"
   }, 
   {
     "ship_id": "4184815440", 
@@ -3057,6 +3089,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Graf%20Zeppelin%20%28old%29%20wows%20review"
   }, 
   {
+    "ship_id": "3759585072", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=U-4501%20wows%20review"
+  }, 
+  {
     "ship_id": "4187895088", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=T%C3%A1tra%20wows%20review"
@@ -3134,7 +3171,7 @@
   {
     "ship_id": "3455006416", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Kawachi%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PJSB801%20wows%20review"
   }, 
   {
     "ship_id": "3760076528", 
@@ -3170,6 +3207,11 @@
     "ship_id": "4247697392", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Marblehead%20L%20wows%20review"
+  }, 
+  {
+    "ship_id": "4181112816", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Salmon%20wows%20review"
   }, 
   {
     "ship_id": "3761157584", 
@@ -3209,7 +3251,7 @@
   {
     "ship_id": "3455006704", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=South%20Carolina%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PASB801%20wows%20review"
   }, 
   {
     "ship_id": "3763255024", 
@@ -3387,6 +3429,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Z-23%20wows%20review"
   }, 
   {
+    "ship_id": "4183209424", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=S-1%20wows%20review"
+  }, 
+  {
     "ship_id": "4282299664", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Rust%20Nightfall%20wows%20review"
@@ -3404,7 +3451,7 @@
   {
     "ship_id": "3453957840", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Kawachi%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PJSB802%20wows%20review"
   }, 
   {
     "ship_id": "4282266896", 
@@ -3424,7 +3471,7 @@
   {
     "ship_id": "3453958128", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Michigan%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PASB802%20wows%20review"
   }, 
   {
     "ship_id": "4281219056", 
@@ -3479,7 +3526,7 @@
   {
     "ship_id": "3417224912", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Hashidate%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PJSC837%20wows%20review"
   }, 
   {
     "ship_id": "3764303056", 
@@ -3522,6 +3569,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Emden%20wows%20review"
   }, 
   {
+    "ship_id": "4283315472", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Comet%20Trace%20wows%20review"
+  }, 
+  {
     "ship_id": "4273911792", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Des%20Moines%20wows%20review"
@@ -3544,7 +3596,7 @@
   {
     "ship_id": "3416176336", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Hashidate%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PJSC838%20wows%20review"
   }, 
   {
     "ship_id": "4179605488", 
@@ -3612,9 +3664,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Duke%20of%20York%20wows%20review"
   }, 
   {
-    "ship_id": "4248057104", 
+    "ship_id": "3760142032", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Cimarron%20civil%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Yashima%20wows%20review"
   }, 
   {
     "ship_id": "4293834736", 
@@ -3697,6 +3749,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Hsienyang%20wows%20review"
   }, 
   {
+    "ship_id": "4181112272", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=L-20%20wows%20review"
+  }, 
+  {
     "ship_id": "3765384656", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Okt.%C2%A0Revolutsiya%20wows%20review"
@@ -3727,6 +3784,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Implacable%20wows%20review"
   }, 
   {
+    "ship_id": "4183209776", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=U-69%20wows%20review"
+  }, 
+  {
     "ship_id": "3751786480", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Enterprise%20wows%20review"
@@ -3739,7 +3801,7 @@
   {
     "ship_id": "3346282480", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Cimarron%20Test%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PASX904%20wows%20review"
   }, 
   {
     "ship_id": "3763221872", 
@@ -4022,6 +4084,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Century%20Hawk%20wows%20review"
   }, 
   {
+    "ship_id": "4248057104", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Cimarron%20civil%20wows%20review"
+  }, 
+  {
     "ship_id": "4293145872", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Transylvania%20wows%20review"
@@ -4104,7 +4171,12 @@
   {
     "ship_id": "3453925360", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Cimarron%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PASC802%20wows%20review"
+  }, 
+  {
+    "ship_id": "3759585264", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Gato%20wows%20review"
   }, 
   {
     "ship_id": "4185896944", 
@@ -4282,6 +4354,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Fushun%20wows%20review"
   }, 
   {
+    "ship_id": "4179015120", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=K-1%20wows%20review"
+  }, 
+  {
     "ship_id": "4293866768", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Jackal%20wows%20review"
@@ -4379,7 +4456,7 @@
   {
     "ship_id": "4287903728", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Cimarron%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PASX006%20wows%20review"
   }, 
   {
     "ship_id": "4292850960", 
@@ -4567,6 +4644,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Ranger%20wows%20review"
   }, 
   {
+    "ship_id": "3750672176", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=%C3%84gir%20wows%20review"
+  }, 
+  {
     "ship_id": "4269683984", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Mutantovsk%20wows%20review"
@@ -4714,7 +4796,7 @@
   {
     "ship_id": "3450779632", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Erie%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PASC805%20wows%20review"
   }, 
   {
     "ship_id": "3762173744", 
@@ -4760,6 +4842,11 @@
     "ship_id": "3741267408", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Borodino%20wows%20review"
+  }, 
+  {
+    "ship_id": "4181669328", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Vladivostok%20wows%20review"
   }, 
   {
     "ship_id": "4277024464", 
@@ -4817,9 +4904,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Y%C5%ABbari%20wows%20review"
   }, 
   {
-    "ship_id": "4183700784", 
+    "ship_id": "4183799760", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=V%C3%A4ster%C3%A5s%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Furious%20wows%20review"
   }, 
   {
     "ship_id": "3765384944", 
@@ -4957,9 +5044,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Liberty%20wows%20review"
   }, 
   {
-    "ship_id": "4283315472", 
+    "ship_id": "3340645680", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Comet%20Trace%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Lappland%20wows%20review"
   }, 
   {
     "ship_id": "4277057520", 
@@ -4979,7 +5066,7 @@
   {
     "ship_id": "3451828208", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Erie%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PASC804%20wows%20review"
   }, 
   {
     "ship_id": "4186879952", 
@@ -5207,9 +5294,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Alaska%20wows%20review"
   }, 
   {
-    "ship_id": "4183799760", 
+    "ship_id": "4183700784", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Furious%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=V%C3%A4ster%C3%A5s%20wows%20review"
   }, 
   {
     "ship_id": "4076746448", 
@@ -5272,6 +5359,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=ARP%20Ashigara%20wows%20review"
   }, 
   {
+    "ship_id": "4179015664", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Balao%20wows%20review"
+  }, 
+  {
     "ship_id": "3741300720", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Saipan%20wows%20review"
@@ -5280,6 +5372,11 @@
     "ship_id": "4184782576", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Montecuccoli%20wows%20review"
+  }, 
+  {
+    "ship_id": "3761681872", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=S-189%20wows%20review"
   }, 
   {
     "ship_id": "4187895760", 
