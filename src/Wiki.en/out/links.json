@@ -3006,12 +3006,12 @@
     "id_str": "PJSB510", 
     "nation": "japan", 
     "ship_id": "3760142032", 
-    "ship_name": "Yashima", 
+    "ship_name": "Shikishima", 
     "status_code": 404, 
     "tier": 10, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/en/Ship:Yashima"
+    "url": "http://wiki.wargaming.net/en/Ship:Shikishima"
   }, 
   {
     "id_str": "PJSB705", 
@@ -4037,6 +4037,50 @@
     "url": "http://wiki.wargaming.net/en/Ship:Moskva"
   }, 
   {
+    "id_str": "PRSC208", 
+    "nation": "ussr", 
+    "ship_id": "4076778960", 
+    "ship_name": "Tallinn", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Tallinn"
+  }, 
+  {
+    "id_str": "PRSC209", 
+    "nation": "ussr", 
+    "ship_id": "4075730384", 
+    "ship_name": "Riga", 
+    "status_code": 404, 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Riga"
+  }, 
+  {
+    "id_str": "PRSC210", 
+    "nation": "ussr", 
+    "ship_id": "4074681808", 
+    "ship_name": "Al. Nevsky", 
+    "status_code": 404, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Al.%20Nevsky"
+  }, 
+  {
+    "id_str": "PRSC310", 
+    "nation": "ussr", 
+    "ship_id": "3969824208", 
+    "ship_name": "Petropavlovsk", 
+    "status_code": 404, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Petropavlovsk"
+  }, 
+  {
     "id_str": "PRSC503", 
     "nation": "ussr", 
     "ship_id": "3767449040", 
@@ -4134,6 +4178,39 @@
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/en/Ship:STALINGRAD%20%232"
+  }, 
+  {
+    "id_str": "PRSC525", 
+    "nation": "ussr", 
+    "ship_id": "3744380368", 
+    "ship_name": "Voroshilov", 
+    "status_code": 404, 
+    "tier": 5, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Voroshilov"
+  }, 
+  {
+    "id_str": "PRSC528", 
+    "nation": "ussr", 
+    "ship_id": "3741234640", 
+    "ship_name": "Ochakov", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Ochakov"
+  }, 
+  {
+    "id_str": "PRSC538", 
+    "nation": "ussr", 
+    "ship_id": "3730748880", 
+    "ship_name": "P. Bagration", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:P.%20Bagration"
   }, 
   {
     "id_str": "PRSC606", 

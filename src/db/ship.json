@@ -2795,6 +2795,49 @@
     },
     "type": "Battleship"
   },
+  "3730748880": {
+    "artillery": {
+      "3552554448": [
+        3,
+        3,
+        3
+      ]
+    },
+    "id_str": "PRSC538",
+    "name": "IDS_PRSC538",
+    "nation": "ussr",
+    "sort": 208,
+    "tier": 8,
+    "torpedoes": {
+      "3554029008": [
+        5,
+        5
+      ]
+    },
+    "type": "Cruiser"
+  },
+  "3741234640": {
+    "artillery": {
+      "3553603024": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PRSC528",
+    "name": "IDS_PRSC528",
+    "nation": "ussr",
+    "sort": 208,
+    "tier": 8,
+    "torpedoes": {
+      "3547737552": [
+        5,
+        5
+      ]
+    },
+    "type": "Cruiser"
+  },
   "3741267408": {
     "artillery": {
       "3424628176": [
@@ -2919,6 +2962,27 @@
     "sort": 307,
     "tier": 7,
     "type": "Battleship"
+  },
+  "3744380368": {
+    "artillery": {
+      "3870272976": [
+        3,
+        3,
+        3
+      ]
+    },
+    "id_str": "PRSC525",
+    "name": "IDS_PRSC525",
+    "nation": "ussr",
+    "sort": 205,
+    "tier": 5,
+    "torpedoes": {
+      "3869650384": [
+        3,
+        3
+      ]
+    },
+    "type": "Cruiser"
   },
   "3749623248": {
     "artillery": {
@@ -8803,6 +8867,21 @@
     "tier": 10,
     "type": "Destroyer"
   },
+  "3969824208": {
+    "artillery": {
+      "3344936400": [
+        3,
+        3,
+        3
+      ]
+    },
+    "id_str": "PRSC310",
+    "name": "IDS_PRSC310",
+    "nation": "ussr",
+    "sort": 210,
+    "tier": 10,
+    "type": "Cruiser"
+  },
   "3970840016": {
     "id_str": "PRSD309",
     "name": "IDS_PRSD309",
@@ -9139,6 +9218,28 @@
     },
     "type": "Destroyer"
   },
+  "4074681808": {
+    "artillery": {
+      "3343887824": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PRSC210",
+    "name": "IDS_PRSC210",
+    "nation": "ussr",
+    "sort": 210,
+    "tier": 10,
+    "torpedoes": {
+      "3341168080": [
+        5,
+        5
+      ]
+    },
+    "type": "Cruiser"
+  },
   "4074682320": {
     "artillery": {
       "3348082640": [
@@ -9355,6 +9456,24 @@
       ]
     },
     "type": "Destroyer"
+  },
+  "4075730384": {
+    "artillery": {
+      "3449794000": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    "id_str": "PRSC209",
+    "name": "IDS_PRSC209",
+    "nation": "ussr",
+    "sort": 209,
+    "tier": 9,
+    "type": "Cruiser"
   },
   "4075730896": {
     "artillery": {
@@ -9599,6 +9718,28 @@
       ]
     },
     "type": "Destroyer"
+  },
+  "4076778960": {
+    "artillery": {
+      "3554651600": [
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    "id_str": "PRSC208",
+    "name": "IDS_PRSC208",
+    "nation": "ussr",
+    "sort": 208,
+    "tier": 8,
+    "torpedoes": {
+      "3555077584": [
+        5,
+        5
+      ]
+    },
+    "type": "Cruiser"
   },
   "4076779472": {
     "artillery": {
@@ -11693,10 +11834,6 @@
   "4180587984": {
     "artillery": {
       "3434065360": [
-        3,
-        3,
-        3,
-        3,
         3,
         3,
         3,
@@ -19508,10 +19645,10 @@
   "4188976432": {
     "artillery": {
       "4293897520": [
+        2,
         1,
         1,
-        1,
-        1
+        2
       ]
     },
     "id_str": "PWSC101",

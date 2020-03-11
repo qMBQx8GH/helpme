@@ -2380,7 +2380,7 @@
     "nation": "germany", 
     "ship_id": "3750672176", 
     "ship_name": "\u00c4gir", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 9, 
     "title": "Wiki", 
     "type": "Cruiser", 
@@ -3006,12 +3006,12 @@
     "id_str": "PJSB510", 
     "nation": "japan", 
     "ship_id": "3760142032", 
-    "ship_name": "Yashima", 
+    "ship_name": "Shikishima", 
     "status_code": 404, 
     "tier": 10, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Yashima"
+    "url": "http://wiki.wargaming.net/ru/Ship:Shikishima"
   }, 
   {
     "id_str": "PJSB705", 
@@ -3722,7 +3722,7 @@
     "nation": "japan", 
     "ship_id": "3248371408", 
     "ship_name": "Arashi", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 8, 
     "title": "Wiki", 
     "type": "Destroyer", 
@@ -4037,6 +4037,50 @@
     "url": "http://wiki.wargaming.net/ru/Ship:%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
   }, 
   {
+    "id_str": "PRSC208", 
+    "nation": "ussr", 
+    "ship_id": "4076778960", 
+    "ship_name": "\u0422\u0430\u043b\u043b\u0438\u043d", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD"
+  }, 
+  {
+    "id_str": "PRSC209", 
+    "nation": "ussr", 
+    "ship_id": "4075730384", 
+    "ship_name": "\u0420\u0438\u0433\u0430", 
+    "status_code": 404, 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A0%D0%B8%D0%B3%D0%B0"
+  }, 
+  {
+    "id_str": "PRSC210", 
+    "nation": "ussr", 
+    "ship_id": "4074681808", 
+    "ship_name": "\u0410\u043b.\u00a0\u041d\u0435\u0432\u0441\u043a\u0438\u0439", 
+    "status_code": 404, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%90%D0%BB.%C2%A0%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9"
+  }, 
+  {
+    "id_str": "PRSC310", 
+    "nation": "ussr", 
+    "ship_id": "3969824208", 
+    "ship_name": "\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u0441\u043a", 
+    "status_code": 404, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA"
+  }, 
+  {
     "id_str": "PRSC503", 
     "nation": "ussr", 
     "ship_id": "3767449040", 
@@ -4134,6 +4178,39 @@
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/ru/Ship:%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4_2"
+  }, 
+  {
+    "id_str": "PRSC525", 
+    "nation": "ussr", 
+    "ship_id": "3744380368", 
+    "ship_name": "\u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432", 
+    "status_code": 404, 
+    "tier": 5, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%92%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%BB%D0%BE%D0%B2"
+  }, 
+  {
+    "id_str": "PRSC528", 
+    "nation": "ussr", 
+    "ship_id": "3741234640", 
+    "ship_name": "\u041e\u0447\u0430\u043a\u043e\u0432", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9E%D1%87%D0%B0%D0%BA%D0%BE%D0%B2"
+  }, 
+  {
+    "id_str": "PRSC538", 
+    "nation": "ussr", 
+    "ship_id": "3730748880", 
+    "ship_name": "\u041f.\u00a0\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9F.%C2%A0%D0%91%D0%B0%D0%B3%D1%80%D0%B0%D1%82%D0%B8%D0%BE%D0%BD"
   }, 
   {
     "id_str": "PRSC606", 
@@ -4613,7 +4690,7 @@
     "nation": "europe", 
     "ship_id": "3762173232", 
     "ship_name": "Orkan", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 8, 
     "title": "Wiki", 
     "type": "Destroyer", 
