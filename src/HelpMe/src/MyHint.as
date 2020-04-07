@@ -8,11 +8,13 @@ package {
 	{
 		private var _stageWidth:int;
 		private var _stageHeight:int;
+		private var _rowsOffset:Array;
 
 		public function MyHint(stageWidth:int, stageHeight:int)
 		{
 			this._stageWidth = stageWidth;
 			this._stageHeight = stageHeight;
+			this._rowsOffset = [160, 240, 350];
 		}
 
 		public static function produceHint(_gameAPI:GameAPI, col:int, row:int):MyHint
@@ -29,26 +31,22 @@ package {
 			var left:int = this.getLeftPadding() + (this.getIconSize() + this.getColumnSpace()) * col;
 			this.graphics.drawRoundRect(
 				left,
-				this.getTopOffset() + this.getRowStep() * row,
+				this._rowsOffset[row],
 				this.getIconSize(), this.getIconSize(), 6
 			);
 			this.graphics.moveTo(
 				left + this.getIconSize(),
-				this.getTopOffset() + this.getRowStep() * row + 3
+				this._rowsOffset[row] + 3
 			);
 			this.graphics.lineTo(
 				left + this.getIconSize(),
-				this.getTopOffset() + this.getRowStep() * row + this.getIconSize() - 3
+				this._rowsOffset[row] + this.getIconSize() - 3
 			);
 		}
 
 		public function getWidth():int
 		{
-			if (this._stageWidth < 1400) {
-				return 500;
-			} else {
-				return 540;
-			}
+			return 464;
 		}
 		
 		public function getIconSize():int
@@ -63,26 +61,12 @@ package {
 
 		public function getLeftPadding():int
 		{
-			return 20;
+			return 10;
 		}
 
 		public function getColumnSpace():int
 		{
 			return (this.getWidth() - this.getLeftPadding() - this.getRightPadding() - this.getIconSize() * 6) / 5;
-		}
-
-		public function getTopOffset():int
-		{
-			if (this._stageWidth < 1400) {
-				return 195;
-			} else {
-				return 215;
-			}
-		}
-
-		public function getRowStep():int
-		{
-			return 70;
 		}
 	}
 }//package 
