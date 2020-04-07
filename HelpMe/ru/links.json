@@ -1566,6 +1566,12 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Musashi"
   }, 
   {
+    "ship_id": "3760142032", 
+    "ship_name": "Shikishima", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Shikishima"
+  }, 
+  {
     "ship_id": "3555669712", 
     "ship_name": "ARP Kong\u014d", 
     "title": "Wiki", 
@@ -2118,6 +2124,24 @@
     "url": "http://wiki.wargaming.net/ru/Ship:%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
   }, 
   {
+    "ship_id": "4076778960", 
+    "ship_name": "\u0422\u0430\u043b\u043b\u0438\u043d", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD"
+  }, 
+  {
+    "ship_id": "4075730384", 
+    "ship_name": "\u0420\u0438\u0433\u0430", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A0%D0%B8%D0%B3%D0%B0"
+  }, 
+  {
+    "ship_id": "3969824208", 
+    "ship_name": "\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u0441\u043a", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA"
+  }, 
+  {
     "ship_id": "3767449040", 
     "ship_name": "\u041e\u043b\u0435\u0433", 
     "title": "Wiki", 
@@ -2170,6 +2194,18 @@
     "ship_name": "\u0421\u0442\u0430\u043b\u0438\u043d\u0433\u0440\u0430\u0434 2", 
     "title": "Wiki", 
     "url": "http://wiki.wargaming.net/ru/Ship:%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4_2"
+  }, 
+  {
+    "ship_id": "3744380368", 
+    "ship_name": "\u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%92%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%BB%D0%BE%D0%B2"
+  }, 
+  {
+    "ship_id": "3741234640", 
+    "ship_name": "\u041e\u0447\u0430\u043a\u043e\u0432", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9E%D1%87%D0%B0%D0%BA%D0%BE%D0%B2"
   }, 
   {
     "ship_id": "3659445712", 
@@ -2518,11 +2554,6 @@
     "url": "https://forum.worldofwarships.ru/topic/50170-"
   }, 
   {
-    "ship_id": "4288657392", 
-    "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/23859-"
-  }, 
-  {
     "ship_id": "4284463088", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "url": "https://forum.worldofwarships.ru/topic/37934-"
@@ -2530,7 +2561,7 @@
   {
     "ship_id": "4282365936", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/41970-"
+    "url": "https://forum.worldofwarships.ru/topic/126535-"
   }, 
   {
     "ship_id": "4281317360", 
@@ -2555,7 +2586,7 @@
   {
     "ship_id": "4181702640", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/41970-"
+    "url": "https://forum.worldofwarships.ru/topic/126535-"
   }, 
   {
     "ship_id": "4179605488", 
@@ -2570,12 +2601,12 @@
   {
     "ship_id": "3762272240", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/125850-"
+    "url": "https://forum.worldofwarships.ru/topic/137820-"
   }, 
   {
     "ship_id": "3751786480", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/125850-"
+    "url": "https://forum.worldofwarships.ru/topic/137820-"
   }, 
   {
     "ship_id": "3741300720", 
@@ -2655,7 +2686,7 @@
   {
     "ship_id": "3760142320", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/132532-"
+    "url": "https://forum.worldofwarships.ru/topic/137623-"
   }, 
   {
     "ship_id": "3751753712", 
@@ -2681,6 +2712,16 @@
     "ship_id": "3333371888", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "url": "https://forum.worldofwarships.ru/topic/29782-"
+  }, 
+  {
+    "ship_id": "4293834736", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/21952-"
+  }, 
+  {
+    "ship_id": "4292786160", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/21955-"
   }, 
   {
     "ship_id": "4291737584", 
@@ -2810,7 +2851,7 @@
   {
     "ship_id": "3762206704", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/124010-"
+    "url": "https://forum.worldofwarships.ru/topic/132262-"
   }, 
   {
     "ship_id": "3760109552", 
@@ -2830,7 +2871,7 @@
   {
     "ship_id": "3553540080", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/61847-"
+    "url": "https://forum.worldofwarships.ru/topic/132152-"
   }, 
   {
     "ship_id": "3550394352", 
@@ -2945,7 +2986,7 @@
   {
     "ship_id": "4181702608", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/124752-"
+    "url": "https://forum.worldofwarships.ru/topic/134247-"
   }, 
   {
     "ship_id": "4081039312", 
@@ -2965,7 +3006,7 @@
   {
     "ship_id": "3751786448", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/132540-"
+    "url": "https://forum.worldofwarships.ru/topic/133144-"
   }, 
   {
     "ship_id": "4292818896", 
@@ -3315,7 +3356,7 @@
   {
     "ship_id": "4180588368", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/84890-"
+    "url": "https://forum.worldofwarships.ru/topic/117920-"
   }, 
   {
     "ship_id": "4179539792", 
@@ -3325,7 +3366,7 @@
   {
     "ship_id": "3764303696", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/98582-"
+    "url": "https://forum.worldofwarships.ru/topic/120023-"
   }, 
   {
     "ship_id": "3762206544", 
@@ -3366,11 +3407,6 @@
     "ship_id": "4180555600", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "url": "https://forum.worldofwarships.ru/topic/131899-"
-  }, 
-  {
-    "ship_id": "4179507024", 
-    "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/132485-"
   }, 
   {
     "ship_id": "3766368080", 
@@ -3513,6 +3549,11 @@
     "url": "https://forum.worldofwarships.ru/topic/66031-"
   }, 
   {
+    "ship_id": "3751720752", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/138673-"
+  }, 
+  {
     "ship_id": "3554588464", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "url": "https://forum.worldofwarships.ru/topic/76443-"
@@ -3615,7 +3656,7 @@
   {
     "ship_id": "4183734000", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/133440-"
+    "url": "https://forum.worldofwarships.ru/topic/134378-"
   }, 
   {
     "ship_id": "4182685424", 
@@ -3660,12 +3701,12 @@
   {
     "ship_id": "3763320528", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/125542-"
+    "url": "https://forum.worldofwarships.ru/topic/136160-"
   }, 
   {
     "ship_id": "3751786192", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/125542-"
+    "url": "https://forum.worldofwarships.ru/topic/136160-"
   }, 
   {
     "ship_id": "3333404368", 
@@ -3720,7 +3761,7 @@
   {
     "ship_id": "3762239184", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/96481-"
+    "url": "https://forum.worldofwarships.ru/topic/124927-"
   }, 
   {
     "ship_id": "3761190608", 
@@ -3785,7 +3826,7 @@
   {
     "ship_id": "4281251536", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/21884-"
+    "url": "https://forum.worldofwarships.ru/topic/22710-"
   }, 
   {
     "ship_id": "4267620048", 
@@ -3820,7 +3861,7 @@
   {
     "ship_id": "3760109264", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/126120-"
+    "url": "https://forum.worldofwarships.ru/topic/133387-"
   }, 
   {
     "ship_id": "3749623504", 
@@ -3905,7 +3946,7 @@
   {
     "ship_id": "4287510224", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/21945-"
+    "url": "https://forum.worldofwarships.ru/topic/133614-"
   }, 
   {
     "ship_id": "4284364496", 
@@ -3950,7 +3991,7 @@
   {
     "ship_id": "4183701200", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/21945-"
+    "url": "https://forum.worldofwarships.ru/topic/133614-"
   }, 
   {
     "ship_id": "4182652624", 
@@ -4065,7 +4106,7 @@
   {
     "ship_id": "3762238928", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/134840-"
+    "url": "https://forum.worldofwarships.ru/topic/137049-"
   }, 
   {
     "ship_id": "3751753168", 
@@ -4118,11 +4159,6 @@
     "url": "https://forum.worldofwarships.ru/topic/49687-"
   }, 
   {
-    "ship_id": "4183733712", 
-    "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/49380-"
-  }, 
-  {
     "ship_id": "4182685136", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "url": "https://forum.worldofwarships.ru/topic/133884-"
@@ -4165,7 +4201,7 @@
   {
     "ship_id": "3761157584", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/110817-"
+    "url": "https://forum.worldofwarships.ru/topic/116212-"
   }, 
   {
     "ship_id": "3760109008", 
@@ -4325,7 +4361,7 @@
   {
     "ship_id": "3766433072", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/133509-"
+    "url": "https://forum.worldofwarships.ru/topic/133569-"
   }, 
   {
     "ship_id": "4184749360", 
@@ -4435,7 +4471,7 @@
   {
     "ship_id": "4184749264", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/100157-"
+    "url": "https://forum.worldofwarships.ru/topic/134354-"
   }, 
   {
     "ship_id": "4183700688", 
@@ -4455,7 +4491,7 @@
   {
     "ship_id": "4180554960", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/100161-"
+    "url": "https://forum.worldofwarships.ru/topic/120722-"
   }, 
   {
     "ship_id": "4179506384", 

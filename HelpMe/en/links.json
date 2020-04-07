@@ -1266,6 +1266,12 @@
     "url": "http://wiki.wargaming.net/en/Ship:Mainz"
   }, 
   {
+    "ship_id": "3750672176", 
+    "ship_name": "\u00c4gir", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:%C3%84gir"
+  }, 
+  {
     "ship_id": "3554588464", 
     "ship_name": "HSF Graf Spee", 
     "title": "Wiki", 
@@ -1576,6 +1582,12 @@
     "ship_name": "Musashi", 
     "title": "Wiki", 
     "url": "http://wiki.wargaming.net/en/Ship:Musashi"
+  }, 
+  {
+    "ship_id": "3760142032", 
+    "ship_name": "Shikishima", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Shikishima"
   }, 
   {
     "ship_id": "3555669712", 
@@ -1950,6 +1962,12 @@
     "url": "http://wiki.wargaming.net/en/Ship:Shimakaze"
   }, 
   {
+    "ship_id": "3248371408", 
+    "ship_name": "Arashi", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Arashi"
+  }, 
+  {
     "ship_id": "4293866960", 
     "ship_name": "Nikolai I", 
     "title": "Wiki", 
@@ -2118,6 +2136,24 @@
     "url": "http://wiki.wargaming.net/en/Ship:Moskva"
   }, 
   {
+    "ship_id": "4076778960", 
+    "ship_name": "Tallinn", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Tallinn"
+  }, 
+  {
+    "ship_id": "4075730384", 
+    "ship_name": "Riga", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Riga"
+  }, 
+  {
+    "ship_id": "3969824208", 
+    "ship_name": "Petropavlovsk", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Petropavlovsk"
+  }, 
+  {
     "ship_id": "3767449040", 
     "ship_name": "Oleg", 
     "title": "Wiki", 
@@ -2170,6 +2206,18 @@
     "ship_name": "STALINGRAD #2", 
     "title": "Wiki", 
     "url": "http://wiki.wargaming.net/en/Ship:STALINGRAD%20%232"
+  }, 
+  {
+    "ship_id": "3744380368", 
+    "ship_name": "Voroshilov", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Voroshilov"
+  }, 
+  {
+    "ship_id": "3741234640", 
+    "ship_name": "Ochakov", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Ochakov"
   }, 
   {
     "ship_id": "3659445712", 
@@ -2398,6 +2446,12 @@
     "ship_name": "B\u0142yskawica", 
     "title": "Wiki", 
     "url": "http://wiki.wargaming.net/en/Ship:B%C5%82yskawica"
+  }, 
+  {
+    "ship_id": "3762173232", 
+    "ship_name": "Orkan", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Orkan"
   }, 
   {
     "ship_id": "3760076080", 
