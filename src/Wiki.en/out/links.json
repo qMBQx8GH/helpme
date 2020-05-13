@@ -44,6 +44,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:Midway"
   }, 
   {
+    "id_str": "PASA510", 
+    "nation": "usa", 
+    "ship_id": "3760175088", 
+    "ship_name": "F.D. Roosevelt", 
+    "status_code": 200, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "AirCarrier", 
+    "url": "http://wiki.wargaming.net/en/Ship:F.D.%20Roosevelt"
+  }, 
+  {
     "id_str": "PASA518", 
     "nation": "usa", 
     "ship_id": "3751786480", 
@@ -306,6 +317,28 @@
     "title": "Wiki", 
     "type": "Battleship", 
     "url": "http://wiki.wargaming.net/en/Ship:Georgia"
+  }, 
+  {
+    "id_str": "PASB801", 
+    "nation": "usa", 
+    "ship_id": "3455006704", 
+    "ship_name": "South Carolina", 
+    "status_code": 200, 
+    "tier": 3, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:South%20Carolina"
+  }, 
+  {
+    "id_str": "PASB802", 
+    "nation": "usa", 
+    "ship_id": "3453958128", 
+    "ship_name": "Michigan", 
+    "status_code": 404, 
+    "tier": 3, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Michigan"
   }, 
   {
     "id_str": "PASB810", 
@@ -671,6 +704,50 @@
     "url": "http://wiki.wargaming.net/en/Ship:AL%20Montpelier"
   }, 
   {
+    "id_str": "PASC802", 
+    "nation": "usa", 
+    "ship_id": "3453925360", 
+    "ship_name": "Cimarron", 
+    "status_code": 404, 
+    "tier": 5, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Cimarron"
+  }, 
+  {
+    "id_str": "PASC803", 
+    "nation": "usa", 
+    "ship_id": "3452876784", 
+    "ship_name": "Cimarron", 
+    "status_code": 404, 
+    "tier": 5, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Cimarron"
+  }, 
+  {
+    "id_str": "PASC804", 
+    "nation": "usa", 
+    "ship_id": "3451828208", 
+    "ship_name": "Erie", 
+    "status_code": 200, 
+    "tier": 1, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Erie"
+  }, 
+  {
+    "id_str": "PASC805", 
+    "nation": "usa", 
+    "ship_id": "3450779632", 
+    "ship_name": "Erie", 
+    "status_code": 200, 
+    "tier": 1, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Erie"
+  }, 
+  {
     "id_str": "PASD002", 
     "nation": "usa", 
     "ship_id": "4292753392", 
@@ -867,6 +944,17 @@
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/en/Ship:Black"
+  }, 
+  {
+    "id_str": "PASD801", 
+    "nation": "usa", 
+    "ship_id": "3454941168", 
+    "ship_name": "Sampson", 
+    "status_code": 200, 
+    "tier": 4, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/en/Ship:Sampson"
   }, 
   {
     "id_str": "PASD810", 
@@ -1694,6 +1782,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:Jean%20Bart"
   }, 
   {
+    "id_str": "PFSB528", 
+    "nation": "france", 
+    "ship_id": "3741267792", 
+    "ship_name": "Champagne", 
+    "status_code": 200, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Champagne"
+  }, 
+  {
     "id_str": "PFSC101", 
     "nation": "france", 
     "ship_id": "4188976976", 
@@ -2011,6 +2110,61 @@
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/en/Ship:L%27Effront%C3%A9"
+  }, 
+  {
+    "id_str": "PGSA104", 
+    "nation": "germany", 
+    "ship_id": "4185896752", 
+    "ship_name": "Rhein", 
+    "status_code": 404, 
+    "tier": 4, 
+    "title": "Wiki", 
+    "type": "AirCarrier", 
+    "url": "http://wiki.wargaming.net/en/Ship:Rhein"
+  }, 
+  {
+    "id_str": "PGSA106", 
+    "nation": "germany", 
+    "ship_id": "4183799600", 
+    "ship_name": "Weser", 
+    "status_code": 404, 
+    "tier": 6, 
+    "title": "Wiki", 
+    "type": "AirCarrier", 
+    "url": "http://wiki.wargaming.net/en/Ship:Weser"
+  }, 
+  {
+    "id_str": "PGSA108", 
+    "nation": "germany", 
+    "ship_id": "4181702448", 
+    "ship_name": "A. Parseval", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "AirCarrier", 
+    "url": "http://wiki.wargaming.net/en/Ship:A.%20Parseval"
+  }, 
+  {
+    "id_str": "PGSA110", 
+    "nation": "germany", 
+    "ship_id": "4179605296", 
+    "ship_name": "M. Richthofen", 
+    "status_code": 404, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "AirCarrier", 
+    "url": "http://wiki.wargaming.net/en/Ship:M.%20Richthofen"
+  }, 
+  {
+    "id_str": "PGSA510", 
+    "nation": "germany", 
+    "ship_id": "3760174896", 
+    "ship_name": "W. Voss", 
+    "status_code": 404, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "AirCarrier", 
+    "url": "http://wiki.wargaming.net/en/Ship:W.%20Voss"
   }, 
   {
     "id_str": "PGSA518", 
@@ -2530,6 +2684,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:Z-39"
   }, 
   {
+    "id_str": "PGSD509", 
+    "nation": "germany", 
+    "ship_id": "3761125168", 
+    "ship_name": "Z-35", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/en/Ship:Z-35"
+  }, 
+  {
     "id_str": "PGSS106", 
     "nation": "germany", 
     "ship_id": "4183209776", 
@@ -2594,6 +2759,17 @@
     "title": "Wiki", 
     "type": "Battleship", 
     "url": "http://wiki.wargaming.net/en/Ship:Roma"
+  }, 
+  {
+    "id_str": "PISB708", 
+    "nation": "italy", 
+    "ship_id": "3552524016", 
+    "ship_name": "Impero", 
+    "status_code": 200, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Impero"
   }, 
   {
     "id_str": "PISB805", 
@@ -3069,6 +3245,39 @@
     "url": "http://wiki.wargaming.net/en/Ship:ARP%20Kirishima"
   }, 
   {
+    "id_str": "PJSB801", 
+    "nation": "japan", 
+    "ship_id": "3455006416", 
+    "ship_name": "Kawachi", 
+    "status_code": 200, 
+    "tier": 3, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Kawachi"
+  }, 
+  {
+    "id_str": "PJSB802", 
+    "nation": "japan", 
+    "ship_id": "3453957840", 
+    "ship_name": "Kawachi", 
+    "status_code": 200, 
+    "tier": 3, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Kawachi"
+  }, 
+  {
+    "id_str": "PJSB888", 
+    "nation": "japan", 
+    "ship_id": "3363780304", 
+    "ship_name": "Asama", 
+    "status_code": 200, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Asama"
+  }, 
+  {
     "id_str": "PJSB918", 
     "nation": "japan", 
     "ship_id": "3332323024", 
@@ -3399,6 +3608,28 @@
     "url": "http://wiki.wargaming.net/en/Ship:Za%C5%8D%20P"
   }, 
   {
+    "id_str": "PJSC837", 
+    "nation": "japan", 
+    "ship_id": "3417224912", 
+    "ship_name": "Hashidate", 
+    "status_code": 200, 
+    "tier": 1, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Hashidate"
+  }, 
+  {
+    "id_str": "PJSC838", 
+    "nation": "japan", 
+    "ship_id": "3416176336", 
+    "ship_name": "Hashidate", 
+    "status_code": 200, 
+    "tier": 1, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Hashidate"
+  }, 
+  {
     "id_str": "PJSC934", 
     "nation": "japan", 
     "ship_id": "3315513040", 
@@ -3707,6 +3938,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:AL%20Yukikaze"
   }, 
   {
+    "id_str": "PJSD803", 
+    "nation": "japan", 
+    "ship_id": "3452843728", 
+    "ship_name": "Isokaze", 
+    "status_code": 200, 
+    "tier": 4, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/en/Ship:Isokaze"
+  }, 
+  {
     "id_str": "PJSD912", 
     "nation": "japan", 
     "ship_id": "3338548944", 
@@ -3881,6 +4123,28 @@
     "title": "Wiki", 
     "type": "Battleship", 
     "url": "http://wiki.wargaming.net/en/Ship:Borodino"
+  }, 
+  {
+    "id_str": "PRSB538", 
+    "nation": "ussr", 
+    "ship_id": "3730781648", 
+    "ship_name": "V. I. Lenin", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:V.%20I.%20Lenin"
+  }, 
+  {
+    "id_str": "PRSB709", 
+    "nation": "ussr", 
+    "ship_id": "3551475152", 
+    "ship_name": "Zarya Svobody", 
+    "status_code": 200, 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Zarya%20Svobody"
   }, 
   {
     "id_str": "PRSC001", 
@@ -4070,6 +4334,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:Al.%20Nevsky"
   }, 
   {
+    "id_str": "PRSC215", 
+    "nation": "ussr", 
+    "ship_id": "4069438928", 
+    "ship_name": "Kotovsky", 
+    "status_code": 200, 
+    "tier": 5, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Kotovsky"
+  }, 
+  {
     "id_str": "PRSC310", 
     "nation": "ussr", 
     "ship_id": "3969824208", 
@@ -4156,6 +4431,17 @@
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/en/Ship:Varyag"
+  }, 
+  {
+    "id_str": "PRSC515", 
+    "nation": "ussr", 
+    "ship_id": "3754866128", 
+    "ship_name": "Mikoyan", 
+    "status_code": 200, 
+    "tier": 5, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Mikoyan"
   }, 
   {
     "id_str": "PRSC518", 

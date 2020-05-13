@@ -357,6 +357,23 @@
     "tier": 5,
     "type": "Auxiliary"
   },
+  "3363780304": {
+    "artillery": {
+      "3547311824": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PJSB888",
+    "name": "IDS_PJSB888",
+    "nation": "japan",
+    "sort": 308,
+    "tier": 8,
+    "type": "Battleship"
+  },
   "3416176336": {
     "id_str": "PJSC838",
     "name": "IDS_PJSC838",
@@ -1354,6 +1371,21 @@
     },
     "type": "Cruiser"
   },
+  "3551475152": {
+    "artillery": {
+      "3448745424": [
+        3,
+        3,
+        3
+      ]
+    },
+    "id_str": "PRSB709",
+    "name": "IDS_PRSB709",
+    "nation": "ussr",
+    "sort": 309,
+    "tier": 9,
+    "type": "Battleship"
+  },
   "3552458448": {
     "artillery": {
       "3476008656": [
@@ -1552,6 +1584,21 @@
     },
     "sort": 305,
     "tier": 5,
+    "type": "Battleship"
+  },
+  "3552524016": {
+    "artillery": {
+      "3555700464": [
+        3,
+        3,
+        3
+      ]
+    },
+    "id_str": "PISB708",
+    "name": "IDS_PISB708",
+    "nation": "italy",
+    "sort": 308,
+    "tier": 8,
     "type": "Battleship"
   },
   "3552524272": {
@@ -2816,6 +2863,21 @@
     },
     "type": "Cruiser"
   },
+  "3730781648": {
+    "artillery": {
+      "3551505872": [
+        3,
+        3,
+        3
+      ]
+    },
+    "id_str": "PRSB538",
+    "name": "IDS_PRSB538",
+    "nation": "ussr",
+    "sort": 308,
+    "tier": 8,
+    "type": "Battleship"
+  },
   "3741234640": {
     "artillery": {
       "3553603024": [
@@ -2848,6 +2910,20 @@
     "id_str": "PRSB528",
     "name": "IDS_PRSB528",
     "nation": "ussr",
+    "sort": 308,
+    "tier": 8,
+    "type": "Battleship"
+  },
+  "3741267792": {
+    "artillery": {
+      "3555700560": [
+        3,
+        3
+      ]
+    },
+    "id_str": "PFSB528",
+    "name": "IDS_PFSB528",
+    "nation": "france",
     "sort": 308,
     "tier": 8,
     "type": "Battleship"
@@ -3755,6 +3831,27 @@
     },
     "type": "Cruiser"
   },
+  "3754866128": {
+    "artillery": {
+      "3871321552": [
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PRSC515",
+    "name": "IDS_PRSC515",
+    "nation": "ussr",
+    "sort": 205,
+    "tier": 5,
+    "torpedoes": {
+      "3872796112": [
+        3,
+        3
+      ]
+    },
+    "type": "Cruiser"
+  },
   "3756963280": {
     "artillery": {
       "4081036752": [
@@ -4270,9 +4367,40 @@
     "id_str": "PGSA510",
     "name": "IDS_PGSA510",
     "nation": "germany",
-    "sort": 408,
-    "tier": 8,
+    "sort": 410,
+    "tier": 10,
     "type": "AirCarrier"
+  },
+  "3760175088": {
+    "id_str": "PASA510",
+    "name": "IDS_PASA510",
+    "nation": "usa",
+    "sort": 410,
+    "tier": 10,
+    "type": "AirCarrier"
+  },
+  "3761125168": {
+    "artillery": {
+      "3450842928": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "id_str": "PGSD509",
+    "name": "IDS_PGSD509",
+    "nation": "germany",
+    "sort": 108,
+    "tier": 8,
+    "torpedoes": {
+      "3449171760": [
+        4,
+        4
+      ]
+    },
+    "type": "Destroyer"
   },
   "3761125360": {
     "artillery": {
@@ -9056,6 +9184,28 @@
     },
     "type": "Destroyer"
   },
+  "4069438928": {
+    "artillery": {
+      "3872370128": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PRSC215",
+    "name": "IDS_PRSC215",
+    "nation": "ussr",
+    "sort": 205,
+    "tier": 5,
+    "torpedoes": {
+      "3871747536": [
+        3,
+        3
+      ]
+    },
+    "type": "Cruiser"
+  },
   "4074649040": {
     "artillery": {
       "3338644944": [
@@ -11414,6 +11564,14 @@
     "tier": 10,
     "type": "AirCarrier"
   },
+  "4179605296": {
+    "id_str": "PGSA110",
+    "name": "IDS_PGSA110",
+    "nation": "germany",
+    "sort": 410,
+    "tier": 10,
+    "type": "AirCarrier"
+  },
   "4179605488": {
     "asia": {
       "avg_dmg": "91734",
@@ -11550,6 +11708,10 @@
     "sort": 109,
     "tier": 9,
     "torpedoes": {
+      "3453365552": [
+        4,
+        4
+      ],
       "3454414128": [
         4,
         4
@@ -12591,6 +12753,10 @@
     "sort": 108,
     "tier": 8,
     "torpedoes": {
+      "3557174576": [
+        3,
+        3
+      ],
       "3559271728": [
         3,
         3
@@ -13629,6 +13795,14 @@
     "tier": 8,
     "type": "AirCarrier"
   },
+  "4181702448": {
+    "id_str": "PGSA108",
+    "name": "IDS_PGSA108",
+    "nation": "germany",
+    "sort": 408,
+    "tier": 8,
+    "type": "AirCarrier"
+  },
   "4181702608": {
     "asia": {
       "avg_dmg": "63251",
@@ -13831,6 +14005,10 @@
     "sort": 107,
     "tier": 7,
     "torpedoes": {
+      "3662032176": [
+        3,
+        3
+      ],
       "3663080752": [
         3,
         3
@@ -14940,6 +15118,10 @@
     "sort": 106,
     "tier": 6,
     "torpedoes": {
+      "3767938352": [
+        3,
+        3
+      ],
       "3768986928": [
         3,
         3
@@ -15973,6 +16155,14 @@
     "tier": 6,
     "type": "AirCarrier"
   },
+  "4183799600": {
+    "id_str": "PGSA106",
+    "name": "IDS_PGSA106",
+    "nation": "germany",
+    "sort": 406,
+    "tier": 6,
+    "type": "AirCarrier"
+  },
   "4183799760": {
     "asia": {
       "avg_dmg": "46852",
@@ -16165,6 +16355,10 @@
     "sort": 105,
     "tier": 5,
     "torpedoes": {
+      "3872795952": [
+        3,
+        3
+      ],
       "3873844528": [
         3,
         3
@@ -18072,6 +18266,14 @@
       "planes": "2.02",
       "winrate": "52.67"
     },
+    "sort": 404,
+    "tier": 4,
+    "type": "AirCarrier"
+  },
+  "4185896752": {
+    "id_str": "PGSA104",
+    "name": "IDS_PGSA104",
+    "nation": "germany",
     "sort": 404,
     "tier": 4,
     "type": "AirCarrier"
