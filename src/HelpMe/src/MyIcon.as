@@ -33,17 +33,17 @@ package {
 
 		public function getLeftOffset():int
 		{
-			return 10;
+			return 20;
 		}
 
 		public function getTopOffset():int
 		{
-			return 350;
+			return 385;
 		}
 
 		public function getColumnStep():int
 		{
-			return 75;
+			return 80;
 		}
 	}
 }//package 

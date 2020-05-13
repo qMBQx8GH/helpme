@@ -9,12 +9,18 @@ package {
 		private var _stageWidth:int;
 		private var _stageHeight:int;
 		private var _rowsOffset:Array;
+		private var _width:int;
+		private var _iconSize:int;
+		private var _padding:int;
 
 		public function MyHint(stageWidth:int, stageHeight:int)
 		{
 			this._stageWidth = stageWidth;
 			this._stageHeight = stageHeight;
-			this._rowsOffset = [160, 240, 350];
+			this._rowsOffset = [180, 260, 370];
+			this._width = 495;
+			this._iconSize = 68;
+			this._padding = 10;
 		}
 
 		public static function produceHint(_gameAPI:GameAPI, col:int, row:int):MyHint
@@ -28,45 +34,25 @@ package {
 		{
 			this.graphics.lineStyle(1, 0xfbc62c);
 			var width:int = 68;
-			var left:int = this.getLeftPadding() + (this.getIconSize() + this.getColumnSpace()) * col;
+			var left:int = this._padding + (this._iconSize + this.getColumnSpace()) * col;
 			this.graphics.drawRoundRect(
 				left,
 				this._rowsOffset[row],
-				this.getIconSize(), this.getIconSize(), 6
+				this._iconSize, this._iconSize, 6
 			);
 			this.graphics.moveTo(
-				left + this.getIconSize(),
+				left + this._iconSize,
 				this._rowsOffset[row] + 3
 			);
 			this.graphics.lineTo(
-				left + this.getIconSize(),
-				this._rowsOffset[row] + this.getIconSize() - 3
+				left + this._iconSize,
+				this._rowsOffset[row] + this._iconSize - 3
 			);
-		}
-
-		public function getWidth():int
-		{
-			return 464;
-		}
-		
-		public function getIconSize():int
-		{
-			return 68;
-		}
-
-		public function getRightPadding():int
-		{
-			return 10;
-		}
-
-		public function getLeftPadding():int
-		{
-			return 10;
 		}
 
 		public function getColumnSpace():int
 		{
-			return (this.getWidth() - this.getLeftPadding() - this.getRightPadding() - this.getIconSize() * 6) / 5;
+			return (this._width - this._padding - this._padding - this._iconSize * 6) / 5;
 		}
 	}
 }//package 
