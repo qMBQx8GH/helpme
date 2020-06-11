@@ -1104,6 +1104,18 @@
     "url": "http://wiki.wargaming.net/en/Ship:L%27Effront%C3%A9"
   }, 
   {
+    "ship_id": "4185896752", 
+    "ship_name": "Rhein", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Rhein"
+  }, 
+  {
+    "ship_id": "4183799600", 
+    "ship_name": "Weser", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Weser"
+  }, 
+  {
     "ship_id": "3751786288", 
     "ship_name": "Graf Zeppelin", 
     "title": "Wiki", 
@@ -1384,6 +1396,12 @@
     "ship_name": "Z-39", 
     "title": "Wiki", 
     "url": "http://wiki.wargaming.net/en/Ship:Z-39"
+  }, 
+  {
+    "ship_id": "3761125168", 
+    "ship_name": "Z-35", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:Z-35"
   }, 
   {
     "ship_id": "3765384944", 
@@ -2128,6 +2146,12 @@
     "ship_name": "Borodino", 
     "title": "Wiki", 
     "url": "http://wiki.wargaming.net/en/Ship:Borodino"
+  }, 
+  {
+    "ship_id": "3730781648", 
+    "ship_name": "V. I. Lenin", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/en/Ship:V.%20I.%20Lenin"
   }, 
   {
     "ship_id": "3551475152", 
@@ -3019,6 +3043,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Hayate%20wows%20review"
   }, 
   {
+    "ship_id": "4289705232", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Hellcarrier%20wows%20review"
+  }, 
+  {
     "ship_id": "4289607664", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Farragut%20wows%20review"
@@ -3344,9 +3373,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Paolo%20Emilio%20wows%20review"
   }, 
   {
-    "ship_id": "4289705232", 
+    "ship_id": "3761190704", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Hellcarrier%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PGSB509%20wows%20review"
   }, 
   {
     "ship_id": "3764303600", 
@@ -4374,9 +4403,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Hermelin%20wows%20review"
   }, 
   {
-    "ship_id": "4065212112", 
+    "ship_id": "3764369200", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Kitakaze%20wows%20review"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PGSA506%20wows%20review"
   }, 
   {
     "ship_id": "4074747856", 
@@ -4437,6 +4466,11 @@
     "ship_id": "3763221968", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Leningrad%20wows%20review"
+  }, 
+  {
+    "ship_id": "4065212112", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Kitakaze%20wows%20review"
   }, 
   {
     "ship_id": "4284463088", 
@@ -4897,6 +4931,11 @@
     "ship_id": "3554555600", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Shinonome%20wows%20review"
+  }, 
+  {
+    "ship_id": "3374266064", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PJSB878%20wows%20review"
   }, 
   {
     "ship_id": "3660461904", 
@@ -5467,6 +5506,11 @@
     "ship_id": "4075697872", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Y%C5%ABgumo%20wows%20review"
+  }, 
+  {
+    "ship_id": "3751687984", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PGSD518%20wows%20review"
   }, 
   {
     "ship_id": "3553540080", 
