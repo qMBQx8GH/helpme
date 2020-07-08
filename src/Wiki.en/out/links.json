@@ -638,6 +638,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:Alaska"
   }, 
   {
+    "id_str": "PASC518", 
+    "nation": "usa", 
+    "ship_id": "3751720944", 
+    "ship_name": "Anchorage", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Anchorage"
+  }, 
+  {
     "id_str": "PASC597", 
     "nation": "usa", 
     "ship_id": "3668883440", 
@@ -1087,6 +1098,17 @@
     "title": "Wiki", 
     "type": "AirCarrier", 
     "url": "http://wiki.wargaming.net/en/Ship:Ark%20Royal"
+  }, 
+  {
+    "id_str": "PBSA910", 
+    "nation": "uk", 
+    "ship_id": "3340744656", 
+    "ship_name": "Audacious", 
+    "status_code": 200, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "AirCarrier", 
+    "url": "http://wiki.wargaming.net/en/Ship:Audacious"
   }, 
   {
     "id_str": "PBSB002", 
@@ -2156,6 +2178,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:M.%20Richthofen"
   }, 
   {
+    "id_str": "PGSA506", 
+    "nation": "germany", 
+    "ship_id": "3764369200", 
+    "ship_name": "E. Loewenhardt", 
+    "status_code": 404, 
+    "tier": 6, 
+    "title": "Wiki", 
+    "type": "AirCarrier", 
+    "url": "http://wiki.wargaming.net/en/Ship:E.%20Loewenhardt"
+  }, 
+  {
     "id_str": "PGSA510", 
     "nation": "germany", 
     "ship_id": "3760174896", 
@@ -2332,6 +2365,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:Odin"
   }, 
   {
+    "id_str": "PGSB509", 
+    "nation": "germany", 
+    "ship_id": "3761190704", 
+    "ship_name": "Pommern", 
+    "status_code": 404, 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Pommern"
+  }, 
+  {
     "id_str": "PGSB597", 
     "nation": "germany", 
     "ship_id": "3668916016", 
@@ -2495,6 +2539,17 @@
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/en/Ship:Graf%20Spee"
+  }, 
+  {
+    "id_str": "PGSC507", 
+    "nation": "germany", 
+    "ship_id": "3763255088", 
+    "ship_name": "M\u00fcnchen", 
+    "status_code": 404, 
+    "tier": 7, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:M%C3%BCnchen"
   }, 
   {
     "id_str": "PGSC508", 
@@ -2684,9 +2739,9 @@
     "url": "http://wiki.wargaming.net/en/Ship:Z-39"
   }, 
   {
-    "id_str": "PGSD509", 
+    "id_str": "PGSD518", 
     "nation": "germany", 
-    "ship_id": "3761125168", 
+    "ship_id": "3751687984", 
     "ship_name": "Z-35", 
     "status_code": 200, 
     "tier": 8, 
@@ -2764,12 +2819,12 @@
     "id_str": "PISB708", 
     "nation": "italy", 
     "ship_id": "3552524016", 
-    "ship_name": "Impero", 
-    "status_code": 200, 
+    "ship_name": "AL Littorio", 
+    "status_code": 404, 
     "tier": 8, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/en/Ship:Impero"
+    "url": "http://wiki.wargaming.net/en/Ship:AL%20Littorio"
   }, 
   {
     "id_str": "PISB805", 
@@ -2953,7 +3008,7 @@
     "ship_id": "3760076528", 
     "ship_name": "Paolo Emilio", 
     "status_code": 200, 
-    "tier": 10, 
+    "tier": 9, 
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/en/Ship:Paolo%20Emilio"
@@ -3267,15 +3322,26 @@
     "url": "http://wiki.wargaming.net/en/Ship:Kawachi"
   }, 
   {
-    "id_str": "PJSB888", 
+    "id_str": "PJSB878", 
     "nation": "japan", 
-    "ship_id": "3363780304", 
-    "ship_name": "Asama", 
+    "ship_id": "3374266064", 
+    "ship_name": "Ignis Purgatio", 
     "status_code": 200, 
     "tier": 8, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/en/Ship:Asama"
+    "url": "http://wiki.wargaming.net/en/Ship:Ignis%20Purgatio"
+  }, 
+  {
+    "id_str": "PJSB888", 
+    "nation": "japan", 
+    "ship_id": "3363780304", 
+    "ship_name": "Ragnarok", 
+    "status_code": 200, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Ragnarok"
   }, 
   {
     "id_str": "PJSB918", 
@@ -3979,7 +4045,7 @@
     "tier": 4, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/en/Ship:Nikolai%20I"
+    "url": "http://wiki.wargaming.net/en/Ship:Imperator_Nikolai_I"
   }, 
   {
     "id_str": "PRSB103", 
@@ -4056,7 +4122,7 @@
     "tier": 9, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/en/Ship:Sov.%20Soyuz"
+    "url": "http://wiki.wargaming.net/en/Ship:Sovetsky_Soyuz"
   }, 
   {
     "id_str": "PRSB110", 
@@ -4078,7 +4144,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/en/Ship:Okt.%C2%A0Revolutsiya"
+    "url": "http://wiki.wargaming.net/en/Ship:Oktyabrskaya_Revolutsiya"
   }, 
   {
     "id_str": "PRSB508", 
@@ -4139,12 +4205,12 @@
     "id_str": "PRSB709", 
     "nation": "ussr", 
     "ship_id": "3551475152", 
-    "ship_name": "Zarya Svobody", 
-    "status_code": 200, 
+    "ship_name": "AL Sov. Rossiya", 
+    "status_code": 404, 
     "tier": 9, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/en/Ship:Zarya%20Svobody"
+    "url": "http://wiki.wargaming.net/en/Ship:AL%20Sov.%20Rossiya"
   }, 
   {
     "id_str": "PRSC001", 
@@ -4188,7 +4254,7 @@
     "tier": 2, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Diana%20L"
+    "url": "http://wiki.wargaming.net/en/Ship:Diana_Lima"
   }, 
   {
     "id_str": "PRSC101", 
@@ -4235,17 +4301,6 @@
     "url": "http://wiki.wargaming.net/en/Ship:Svietlana"
   }, 
   {
-    "id_str": "PRSC105", 
-    "nation": "ussr", 
-    "ship_id": "4184782288", 
-    "ship_name": "Kirov", 
-    "status_code": 200, 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Kirov"
-  }, 
-  {
     "id_str": "PRSC106", 
     "nation": "ussr", 
     "ship_id": "4183733712", 
@@ -4287,7 +4342,7 @@
     "tier": 9, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Dm.%20Donskoi"
+    "url": "http://wiki.wargaming.net/en/Ship:Dmitri_Donskoi"
   }, 
   {
     "id_str": "PRSC110", 
@@ -4326,12 +4381,12 @@
     "id_str": "PRSC210", 
     "nation": "ussr", 
     "ship_id": "4074681808", 
-    "ship_name": "Al. Nevsky", 
+    "ship_name": "A.\u00a0Nevsky", 
     "status_code": 404, 
     "tier": 10, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Al.%20Nevsky"
+    "url": "http://wiki.wargaming.net/en/Ship:A.%C2%A0Nevsky"
   }, 
   {
     "id_str": "PRSC215", 
@@ -4397,7 +4452,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Kutuzov"
+    "url": "http://wiki.wargaming.net/en/Ship:Mikhail_Kutuzov"
   }, 
   {
     "id_str": "PRSC509", 
@@ -4463,18 +4518,18 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:STALINGRAD%20%232"
+    "url": "http://wiki.wargaming.net/en/Ship:Stalingrad"
   }, 
   {
     "id_str": "PRSC525", 
     "nation": "ussr", 
     "ship_id": "3744380368", 
-    "ship_name": "Voroshilov", 
+    "ship_name": "Kirov", 
     "status_code": 200, 
     "tier": 5, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Voroshilov"
+    "url": "http://wiki.wargaming.net/en/Ship:Kirov"
   }, 
   {
     "id_str": "PRSC528", 
@@ -4507,7 +4562,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Makarov"
+    "url": "http://wiki.wargaming.net/en/Ship:Admiral_Makarov"
   }, 
   {
     "id_str": "PRSC610", 
@@ -4739,6 +4794,17 @@
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/en/Ship:Neustrashimy"
+  }, 
+  {
+    "id_str": "PRSD810", 
+    "nation": "ussr", 
+    "ship_id": "3445503440", 
+    "ship_name": "DD R-10", 
+    "status_code": 404, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/en/Ship:DD%20R-10"
   }, 
   {
     "id_str": "PRSD910", 
