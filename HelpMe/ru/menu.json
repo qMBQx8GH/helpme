@@ -4,31 +4,8 @@
   "itemsTitle": "&Help Me!",
   "items": [
     {
-      "id": "HelpMe.showFlagMenu",
-      "title": "&1. Сигнальные флаги",
-      "itemsTitle": "Сигнальные флаги",
-      "items": [
-        {
-          "id": "HelpMe.showFlagHintCV",
-          "title": "&1. Авианосец"
-        },
-        {
-          "id": "HelpMe.showFlagHintBB",
-          "title": "&2. Линкор"
-        },
-        {
-          "id": "HelpMe.showFlagHintCA",
-          "title": "&3. Крейсер"
-        },
-        {
-          "id": "HelpMe.showFlagHintDD",
-          "title": "&4. Эсминец"
-        }
-      ]
-    },
-    {
       "id": "HelpMe.showPerkMenu",
-      "title": "&2. Навыки командира",
+      "title": "&1. Навыки командира",
       "itemsTitle": "Навыки командира",
       "items": [
         {
@@ -147,7 +124,7 @@
     },
     {
       "id": "HelpMe.showLinksMenu",
-      "title": "&3. Ссылки",
+      "title": "&2. Ссылки",
       "itemsTitle": "Ссылки",
       "links": true,
       "items": []

@@ -4,31 +4,8 @@
   "itemsTitle": "&Help Me!",
   "items": [
     {
-      "id": "HelpMe.showFlagMenu",
-      "title": "&1. Signal flags",
-      "itemsTitle": "Signal flags",
-      "items": [
-        {
-          "id": "HelpMe.showFlagHintCV",
-          "title": "&1. Aircraft carrier"
-        },
-        {
-          "id": "HelpMe.showFlagHintBB",
-          "title": "&2. Battleship"
-        },
-        {
-          "id": "HelpMe.showFlagHintCA",
-          "title": "&3. Cruiser"
-        },
-        {
-          "id": "HelpMe.showFlagHintDD",
-          "title": "&4. Destroyer"
-        }
-      ]
-    },
-    {
       "id": "HelpMe.showPerkMenu",
-      "title": "&2. Commanders skills",
+      "title": "&1. Commanders skills",
       "itemsTitle": "Commanders skills",
       "items": [
         {

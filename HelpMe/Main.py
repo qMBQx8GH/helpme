@@ -1,7 +1,6 @@
 #from API_v_1_0 import *
 import ini
 import menu
-import flags
 import perks
 import links
 
@@ -14,7 +13,6 @@ class HelpMe:
         self.disabled = False
         self.currentId = ''
         self.menu = menu.MyMenu()
-        self.flags = flags.MyFlags()
         self.perks = perks.MyPerks()
         self.links = links.MyLinks()
         self.setupEvents()
@@ -35,11 +33,6 @@ class HelpMe:
                     menuData = menuFile.read()
                 self.menu.setMenu(utils.jsonDecode(menuData))
                 self.menu.createFlashMenu()
-
-                with open(utils.getModDir() + '/' + iniDir + '/flags.json', 'r') as flagsFile:
-                    flagsData = flagsFile.read()
-                self.flags.setFlags(utils.jsonDecode(flagsData))
-                self.flags.createFlashFlags()
 
                 with open(utils.getModDir() + '/' + iniDir + '/perks.json', 'r') as perksFile:
                     perksData = perksFile.read()
