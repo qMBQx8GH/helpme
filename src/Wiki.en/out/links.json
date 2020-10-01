@@ -198,6 +198,50 @@
     "url": "http://wiki.wargaming.net/en/Ship:New%20Mexico"
   }, 
   {
+    "id_str": "PASB108", 
+    "nation": "usa", 
+    "ship_id": "4181669872", 
+    "ship_name": "Kansas", 
+    "status_code": 200, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Kansas"
+  }, 
+  {
+    "id_str": "PASB109", 
+    "nation": "usa", 
+    "ship_id": "4180621296", 
+    "ship_name": "Minnesota", 
+    "status_code": 200, 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Minnesota"
+  }, 
+  {
+    "id_str": "PASB110", 
+    "nation": "usa", 
+    "ship_id": "4179572720", 
+    "ship_name": "Vermont", 
+    "status_code": 200, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Vermont"
+  }, 
+  {
+    "id_str": "PASB505", 
+    "nation": "usa", 
+    "ship_id": "3765385200", 
+    "ship_name": "Oklahoma", 
+    "status_code": 404, 
+    "tier": 5, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Oklahoma"
+  }, 
+  {
     "id_str": "PASB506", 
     "nation": "usa", 
     "ship_id": "3764336624", 
@@ -251,6 +295,17 @@
     "title": "Wiki", 
     "type": "Battleship", 
     "url": "http://wiki.wargaming.net/en/Ship:Ohio"
+  }, 
+  {
+    "id_str": "PASB517", 
+    "nation": "usa", 
+    "ship_id": "3752802288", 
+    "ship_name": "Florida", 
+    "status_code": 200, 
+    "tier": 7, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Florida"
   }, 
   {
     "id_str": "PASB518", 
@@ -642,7 +697,7 @@
     "nation": "usa", 
     "ship_id": "3751720944", 
     "ship_name": "Anchorage", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
@@ -1529,6 +1584,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:London"
   }, 
   {
+    "id_str": "PBSC528", 
+    "nation": "uk", 
+    "ship_id": "3741235152", 
+    "ship_name": "Belfast '43", 
+    "status_code": 200, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Belfast%20%2743"
+  }, 
+  {
     "id_str": "PBSD102", 
     "nation": "uk", 
     "ship_id": "4187895760", 
@@ -2369,7 +2435,7 @@
     "nation": "germany", 
     "ship_id": "3761190704", 
     "ship_name": "Pommern", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 9, 
     "title": "Wiki", 
     "type": "Battleship", 
@@ -2545,7 +2611,7 @@
     "nation": "germany", 
     "ship_id": "3763255088", 
     "ship_name": "M\u00fcnchen", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
@@ -2820,7 +2886,7 @@
     "nation": "italy", 
     "ship_id": "3552524016", 
     "ship_name": "AL Littorio", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 8, 
     "title": "Wiki", 
     "type": "Battleship", 
@@ -3003,9 +3069,9 @@
     "url": "http://wiki.wargaming.net/en/Ship:Leone"
   }, 
   {
-    "id_str": "PISD510", 
+    "id_str": "PISD509", 
     "nation": "italy", 
-    "ship_id": "3760076528", 
+    "ship_id": "3761125104", 
     "ship_name": "Paolo Emilio", 
     "status_code": 200, 
     "tier": 9, 
@@ -3436,8 +3502,8 @@
     "nation": "japan", 
     "ship_id": "4280202960", 
     "ship_name": "Kitakami", 
-    "status_code": 404, 
-    "tier": 8, 
+    "status_code": 200, 
+    "tier": 10, 
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/en/Ship:Kitakami"
@@ -4045,7 +4111,7 @@
     "tier": 4, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/en/Ship:Imperator_Nikolai_I"
+    "url": "http://wiki.wargaming.net/en/Ship:Nikolai%20I"
   }, 
   {
     "id_str": "PRSB103", 
@@ -4122,7 +4188,7 @@
     "tier": 9, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/en/Ship:Sovetsky_Soyuz"
+    "url": "http://wiki.wargaming.net/en/Ship:Sov.%20Soyuz"
   }, 
   {
     "id_str": "PRSB110", 
@@ -4144,7 +4210,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/en/Ship:Oktyabrskaya_Revolutsiya"
+    "url": "http://wiki.wargaming.net/en/Ship:Okt.%C2%A0Revolutsiya"
   }, 
   {
     "id_str": "PRSB508", 
@@ -4206,7 +4272,7 @@
     "nation": "ussr", 
     "ship_id": "3551475152", 
     "ship_name": "AL Sov. Rossiya", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 9, 
     "title": "Wiki", 
     "type": "Battleship", 
@@ -4254,7 +4320,7 @@
     "tier": 2, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Diana_Lima"
+    "url": "http://wiki.wargaming.net/en/Ship:Diana%20L"
   }, 
   {
     "id_str": "PRSC101", 
@@ -4342,7 +4408,7 @@
     "tier": 9, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Dmitri_Donskoi"
+    "url": "http://wiki.wargaming.net/en/Ship:Dm.%20Donskoi"
   }, 
   {
     "id_str": "PRSC110", 
@@ -4452,7 +4518,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Mikhail_Kutuzov"
+    "url": "http://wiki.wargaming.net/en/Ship:Kutuzov"
   }, 
   {
     "id_str": "PRSC509", 
@@ -4518,7 +4584,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Stalingrad"
+    "url": "http://wiki.wargaming.net/en/Ship:STALINGRAD%20%232"
   }, 
   {
     "id_str": "PRSC525", 
@@ -4562,7 +4628,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/en/Ship:Admiral_Makarov"
+    "url": "http://wiki.wargaming.net/en/Ship:Makarov"
   }, 
   {
     "id_str": "PRSC610", 
@@ -4800,7 +4866,7 @@
     "nation": "ussr", 
     "ship_id": "3445503440", 
     "ship_name": "DD R-10", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 10, 
     "title": "Wiki", 
     "type": "Destroyer", 
