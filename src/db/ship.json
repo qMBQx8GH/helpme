@@ -77,6 +77,54 @@
     },
     "type": "Cruiser"
   },
+  "3331241680": {
+    "artillery": {
+      "3494883024": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PJSC919",
+    "name": "IDS_PJSC919",
+    "nation": "japan",
+    "sort": 208,
+    "tier": 8,
+    "torpedoes": {
+      "3483774672": [
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    "type": "Cruiser"
+  },
+  "3332290256": {
+    "artillery": {
+      "3495931600": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PJSC918",
+    "name": "IDS_PJSC918",
+    "nation": "japan",
+    "sort": 208,
+    "tier": 8,
+    "torpedoes": {
+      "3484823248": [
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    "type": "Cruiser"
+  },
   "3332323024": {
     "artillery": {
       "3269439184": [
@@ -115,6 +163,22 @@
     "sort": 410,
     "tier": 10,
     "type": "AirCarrier"
+  },
+  "3334420176": {
+    "artillery": {
+      "3716132560": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PJSB916",
+    "name": "IDS_PJSB916",
+    "nation": "japan",
+    "sort": 306,
+    "tier": 6,
+    "type": "Battleship"
   },
   "3335501808": {
     "id_str": "PASA915",
@@ -340,6 +404,22 @@
     "sort": 204,
     "tier": 4,
     "type": "Cruiser"
+  },
+  "3344905936": {
+    "artillery": {
+      "3717181136": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PJSB906",
+    "name": "IDS_PJSB906",
+    "nation": "japan",
+    "sort": 306,
+    "tier": 6,
+    "type": "Battleship"
   },
   "3344938992": {
     "id_str": "PASA906",
@@ -1029,6 +1109,31 @@
       ]
     },
     "type": "Destroyer"
+  },
+  "3542005456": {
+    "artillery": {
+      "3553603280": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PJSC718",
+    "name": "IDS_PJSC718",
+    "nation": "japan",
+    "sort": 208,
+    "tier": 8,
+    "torpedoes": {
+      "3546689232": [
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    "type": "Cruiser"
   },
   "3542005744": {
     "artillery": {
@@ -2316,6 +2421,21 @@
     "tier": 11,
     "type": "Auxiliary"
   },
+  "3560912592": {
+    "artillery": {
+      "3344936656": [
+        3,
+        3,
+        3
+      ]
+    },
+    "id_str": "PJSB700",
+    "name": "IDS_PJSB700",
+    "nation": "japan",
+    "sort": 310,
+    "tier": 10,
+    "type": "Battleship"
+  },
   "3655218480": {
     "artillery": {
       "3348081968": [
@@ -2544,6 +2664,20 @@
     "tier": 9,
     "type": "Cruiser"
   },
+  "3666818896": {
+    "artillery": {
+      "3452940112": [
+        4,
+        4
+      ]
+    },
+    "id_str": "PFSB599",
+    "name": "IDS_PFSB599",
+    "nation": "france",
+    "sort": 309,
+    "tier": 9,
+    "type": "Battleship"
+  },
   "3667801808": {
     "artillery": {
       "3472862928": [
@@ -2604,6 +2738,27 @@
     "torpedoes": {
       "3473288912": [
         4,
+        4
+      ]
+    },
+    "type": "Destroyer"
+  },
+  "3667802064": {
+    "artillery": {
+      "3554652112": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PBSD598",
+    "name": "IDS_PBSD598",
+    "nation": "uk",
+    "sort": 108,
+    "tier": 8,
+    "torpedoes": {
+      "3554029520": [
         4
       ]
     },
@@ -2803,6 +2958,14 @@
     "tier": 8,
     "type": "Battleship"
   },
+  "3667900112": {
+    "id_str": "PJSA598",
+    "name": "IDS_PJSA598",
+    "nation": "japan",
+    "sort": 408,
+    "tier": 8,
+    "type": "AirCarrier"
+  },
   "3667900208": {
     "id_str": "PGSA598",
     "name": "IDS_PGSA598",
@@ -2918,6 +3081,32 @@
       ]
     },
     "type": "Battleship"
+  },
+  "3679369200": {
+    "artillery": {
+      "3656364016": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PASC587",
+    "name": "IDS_PASC587",
+    "nation": "usa",
+    "sort": 207,
+    "tier": 7,
+    "torpedoes": {
+      "3662032880": [
+        4,
+        4
+      ]
+    },
+    "type": "Cruiser"
   },
   "3730748880": {
     "artillery": {
@@ -3138,6 +3327,22 @@
     "tier": 7,
     "type": "Battleship"
   },
+  "3743364816": {
+    "artillery": {
+      "3718229712": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PJSB526",
+    "name": "IDS_PJSB526",
+    "nation": "japan",
+    "sort": 306,
+    "tier": 6,
+    "type": "Battleship"
+  },
   "3744380368": {
     "artillery": {
       "3870272976": [
@@ -3306,6 +3511,27 @@
     "sort": 309,
     "tier": 9,
     "type": "Battleship"
+  },
+  "3751687376": {
+    "artillery": {
+      "3554651344": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PZSD518",
+    "name": "IDS_PZSD518",
+    "nation": "pan_asia",
+    "sort": 108,
+    "tier": 8,
+    "torpedoes": {
+      "3551931600": [
+        4
+      ]
+    },
+    "type": "Destroyer"
   },
   "3751687888": {
     "artillery": {
@@ -4191,6 +4417,26 @@
     "tier": 9,
     "type": "Destroyer"
   },
+  "3760076144": {
+    "artillery": {
+      "3350179184": [
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PUSD510",
+    "name": "IDS_PUSD510",
+    "nation": "commonwealth",
+    "sort": 110,
+    "tier": 10,
+    "torpedoes": {
+      "3349556592": [
+        5
+      ]
+    },
+    "type": "Destroyer"
+  },
   "3760076496": {
     "artillery": {
       "3347033808": [
@@ -4878,6 +5124,21 @@
       "planes": "1.13",
       "winrate": "53.01"
     },
+    "sort": 309,
+    "tier": 9,
+    "type": "Battleship"
+  },
+  "3761190640": {
+    "artillery": {
+      "3451891440": [
+        3,
+        3,
+        3
+      ]
+    },
+    "id_str": "PISB509",
+    "name": "IDS_PISB509",
+    "nation": "italy",
     "sort": 309,
     "tier": 9,
     "type": "Battleship"
@@ -9099,6 +9360,24 @@
     },
     "type": "Destroyer"
   },
+  "3768497488": {
+    "artillery": {
+      "4189039952": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "id_str": "PVSC502",
+    "name": "IDS_PVSC502",
+    "nation": "pa",
+    "sort": 202,
+    "tier": 2,
+    "type": "Cruiser"
+  },
   "3768497968": {
     "artillery": {
       "4178554672": [
@@ -11666,6 +11945,22 @@
     "tier": 10,
     "type": "Battleship"
   },
+  "4179572464": {
+    "artillery": {
+      "3348082416": [
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    "id_str": "PISB110",
+    "name": "IDS_PISB110",
+    "nation": "italy",
+    "sort": 310,
+    "tier": 10,
+    "type": "Battleship"
+  },
   "4179572528": {
     "artillery": {
       "3336548144": [
@@ -12765,6 +13060,24 @@
       "planes": "3.07",
       "winrate": "52.67"
     },
+    "sort": 309,
+    "tier": 9,
+    "type": "Battleship"
+  },
+  "4180621040": {
+    "artillery": {
+      "3452940016": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
+    },
+    "id_str": "PISB109",
+    "name": "IDS_PISB109",
+    "nation": "italy",
     "sort": 309,
     "tier": 9,
     "type": "Battleship"
@@ -13926,6 +14239,24 @@
       "planes": "4",
       "winrate": "55.07"
     },
+    "sort": 308,
+    "tier": 8,
+    "type": "Battleship"
+  },
+  "4181669616": {
+    "artillery": {
+      "3554651888": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    "id_str": "PISB108",
+    "name": "IDS_PISB108",
+    "nation": "italy",
     "sort": 308,
     "tier": 8,
     "type": "Battleship"
@@ -15179,6 +15510,22 @@
     "tier": 7,
     "type": "Battleship"
   },
+  "4182718192": {
+    "artillery": {
+      "3661606640": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    "id_str": "PISB107",
+    "name": "IDS_PISB107",
+    "nation": "italy",
+    "sort": 307,
+    "tier": 7,
+    "type": "Battleship"
+  },
   "4182718256": {
     "artillery": {
       "3654266672": [
@@ -16293,6 +16640,26 @@
       "planes": "3.82",
       "winrate": "53.99"
     },
+    "sort": 306,
+    "tier": 6,
+    "type": "Battleship"
+  },
+  "4183766768": {
+    "artillery": {
+      "3765415664": [
+        3,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        3
+      ]
+    },
+    "id_str": "PISB106",
+    "name": "IDS_PISB106",
+    "nation": "italy",
     "sort": 306,
     "tier": 6,
     "type": "Battleship"
@@ -17472,6 +17839,23 @@
     "tier": 5,
     "type": "Battleship"
   },
+  "4184815344": {
+    "artillery": {
+      "3872370416": [
+        3,
+        2,
+        3,
+        2,
+        3
+      ]
+    },
+    "id_str": "PISB105",
+    "name": "IDS_PISB105",
+    "nation": "italy",
+    "sort": 305,
+    "tier": 5,
+    "type": "Battleship"
+  },
   "4184815408": {
     "artillery": {
       "3863981872": [
@@ -18407,6 +18791,22 @@
     "tier": 4,
     "type": "Battleship"
   },
+  "4185863920": {
+    "artillery": {
+      "3978276592": [
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    "id_str": "PISB104",
+    "name": "IDS_PISB104",
+    "nation": "italy",
+    "sort": 304,
+    "tier": 4,
+    "type": "Battleship"
+  },
   "4185863984": {
     "artillery": {
       "3968839472": [
@@ -18771,6 +19171,14 @@
         2
       ]
     },
+    "type": "Destroyer"
+  },
+  "4186846480": {
+    "id_str": "PXSD103",
+    "name": "IDS_PXSD103",
+    "nation": "events",
+    "sort": 110,
+    "tier": 10,
     "type": "Destroyer"
   },
   "4186846512": {
@@ -19372,6 +19780,14 @@
     },
     "type": "Cruiser"
   },
+  "4186912016": {
+    "id_str": "PXSB103",
+    "name": "IDS_PXSB103",
+    "nation": "events",
+    "sort": 310,
+    "tier": 10,
+    "type": "Battleship"
+  },
   "4186912208": {
     "artillery": {
       "4079988176": [
@@ -19688,6 +20104,14 @@
     },
     "type": "Destroyer"
   },
+  "4187895056": {
+    "id_str": "PXSD102",
+    "name": "IDS_PXSD102",
+    "nation": "events",
+    "sort": 110,
+    "tier": 10,
+    "type": "Destroyer"
+  },
   "4187895088": {
     "artillery": {
       "4189039920": [
@@ -19947,6 +20371,14 @@
       ]
     },
     "type": "Destroyer"
+  },
+  "4187927824": {
+    "id_str": "PXSC102",
+    "name": "IDS_PXSC102",
+    "nation": "events",
+    "sort": 210,
+    "tier": 10,
+    "type": "Cruiser"
   },
   "4187928016": {
     "artillery": {
@@ -20232,6 +20664,14 @@
     "tier": 1,
     "type": "Cruiser"
   },
+  "4188976400": {
+    "id_str": "PXSC101",
+    "name": "IDS_PXSC101",
+    "nation": "events",
+    "sort": 210,
+    "tier": 10,
+    "type": "Cruiser"
+  },
   "4188976432": {
     "artillery": {
       "4293897520": [
@@ -20437,6 +20877,14 @@
     "sort": 201,
     "tier": 1,
     "type": "Cruiser"
+  },
+  "4189009168": {
+    "id_str": "PXSB101",
+    "name": "IDS_PXSB101",
+    "nation": "events",
+    "sort": 310,
+    "tier": 10,
+    "type": "Battleship"
   },
   "4247008528": {
     "id_str": "PXSX045",
@@ -21249,6 +21697,25 @@
     "tier": 2,
     "type": "Auxiliary"
   },
+  "4268635408": {
+    "artillery": {
+      "3875515664": [
+        2
+      ]
+    },
+    "id_str": "PXSD025",
+    "name": "IDS_PXSD025",
+    "nation": "events",
+    "sort": 110,
+    "tier": 10,
+    "torpedoes": {
+      "3874893072": [
+        4,
+        4
+      ]
+    },
+    "type": "Destroyer"
+  },
   "4268635856": {
     "artillery": {
       "3822038736": [
@@ -21944,10 +22411,10 @@
     "id_str": "PJSC018",
     "name": "IDS_PJSC018",
     "nation": "japan",
-    "sort": 207,
-    "tier": 7,
+    "sort": 208,
+    "tier": 8,
     "torpedoes": {
-      "3450220240": [
+      "3485871824": [
         3,
         3,
         3,
@@ -22368,6 +22835,25 @@
     },
     "type": "Destroyer"
   },
+  "4278105360": {
+    "artillery": {
+      "3874467088": [
+        1
+      ]
+    },
+    "id_str": "PXSC016",
+    "name": "IDS_PXSC016",
+    "nation": "events",
+    "sort": 210,
+    "tier": 10,
+    "torpedoes": {
+      "3873844496": [
+        1,
+        1
+      ]
+    },
+    "type": "Cruiser"
+  },
   "4278106096": {
     "artillery": {
       "3329208304": [
@@ -22480,6 +22966,19 @@
       ]
     },
     "type": "Cruiser"
+  },
+  "4279186704": {
+    "artillery": {
+      "3873418512": [
+        1
+      ]
+    },
+    "id_str": "PXSB015",
+    "name": "IDS_PXSB015",
+    "nation": "events",
+    "sort": 310,
+    "tier": 10,
+    "type": "Battleship"
   },
   "4279219920": {
     "asia": {

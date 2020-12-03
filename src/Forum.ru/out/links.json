@@ -270,6 +270,26 @@
     "url": "https://forum.worldofwarships.ru/topic/143097-minnesota-%E2%80%94-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
   }, 
   {
+    "id_str": "PASB110", 
+    "nation": "usa", 
+    "ship_id": "4179572720", 
+    "ship_name": "Vermont", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/144483-vermont-%E2%80%94-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PASB505", 
+    "nation": "usa", 
+    "ship_id": "3765385200", 
+    "ship_name": "Oklahoma", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/143663-oklahoma-%E2%80%94-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-%D1%81%D1%88%D0%B0-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
     "id_str": "PASB506", 
     "nation": "usa", 
     "ship_id": "3764336624", 
@@ -297,7 +317,7 @@
     "tier": 9, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/74626-uss-missouri-bb-63-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/74626-uss-missouri-bb-63-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PASB510", 
@@ -307,7 +327,7 @@
     "tier": 10, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/137623-uss-ohio-bb-68-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-%D1%85-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/137623-uss-ohio-bb-68-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-%D1%85-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PASB517", 
@@ -390,6 +410,16 @@
     "url": "https://forum.worldofwarships.ru/topic/29782-%D0%BE%D1%82-%D0%B0-%D0%B4%D0%BE-%D1%8F-%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D0%B0-0611%D1%85/"
   }, 
   {
+    "id_str": "PASC002", 
+    "nation": "usa", 
+    "ship_id": "4292786160", 
+    "ship_name": "Chester", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/21955-chester-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
     "id_str": "PASC003", 
     "nation": "usa", 
     "ship_id": "4291737584", 
@@ -447,7 +477,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/113377-pensacola-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+    "url": "https://forum.worldofwarships.ru/topic/140945-pensacola-%E2%80%93-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%81%D1%88%D0%B0-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-095/"
   }, 
   {
     "id_str": "PASC014", 
@@ -457,7 +487,7 @@
     "tier": 8, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/141127-new-orleans-%E2%80%93-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%81%D1%88%D0%B0-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-095/"
+    "url": "https://forum.worldofwarships.ru/topic/113378-new-orleans-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
   }, 
   {
     "id_str": "PASC016", 
@@ -507,7 +537,7 @@
     "tier": 5, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/76656-uss-marblehead-cl-12-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/76656-uss-marblehead-cl-12-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PASC045", 
@@ -527,7 +557,7 @@
     "tier": 6, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/113377-pensacola-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+    "url": "https://forum.worldofwarships.ru/topic/140945-pensacola-%E2%80%93-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%81%D1%88%D0%B0-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-095/"
   }, 
   {
     "id_str": "PASC107", 
@@ -537,7 +567,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/141127-new-orleans-%E2%80%93-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%81%D1%88%D0%B0-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-095/"
+    "url": "https://forum.worldofwarships.ru/topic/113378-new-orleans-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
   }, 
   {
     "id_str": "PASC108", 
@@ -677,7 +707,7 @@
     "tier": 10, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/137272-%D0%B0%D0%BF%D0%B0-%D0%BD%D0%B5-%D0%B1%D1%83%D0%B4%D0%B5%D1%82-puerto-rico-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%85-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+    "url": "https://forum.worldofwarships.ru/topic/137272-puerto-rico-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%85-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
   }, 
   {
     "id_str": "PASC710", 
@@ -797,7 +827,7 @@
     "tier": 2, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Destroyer", 
-    "url": "https://forum.worldofwarships.ru/topic/71359-uss-smith-dd-17-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/71359-uss-smith-dd-17-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PASD505", 
@@ -1047,7 +1077,7 @@
     "tier": 9, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/142514-lion-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-097/"
+    "url": "https://forum.worldofwarships.ru/topic/93470-lion-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
   }, 
   {
     "id_str": "PBSB110", 
@@ -1057,7 +1087,7 @@
     "tier": 10, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/93471-conqueror-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+    "url": "https://forum.worldofwarships.ru/topic/143308-conqueror-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098/"
   }, 
   {
     "id_str": "PBSB208", 
@@ -1077,7 +1107,7 @@
     "tier": 3, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/120108-hms-dreadnought-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iii%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/120108-hms-dreadnought-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iii%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PBSB507", 
@@ -1087,7 +1117,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/90884-hms-hood%C2%A0-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80%C2%A0vii%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/90884-hms-hood%C2%A0-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80%C2%A0vii%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PBSB508", 
@@ -1137,7 +1167,7 @@
     "tier": 10, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/93471-conqueror-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+    "url": "https://forum.worldofwarships.ru/topic/143308-conqueror-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098/"
   }, 
   {
     "id_str": "PBSB911", 
@@ -1147,7 +1177,7 @@
     "tier": 10, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/93471-conqueror-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+    "url": "https://forum.worldofwarships.ru/topic/143308-conqueror-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098/"
   }, 
   {
     "id_str": "PBSC101", 
@@ -1207,7 +1237,7 @@
     "tier": 6, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/69950-hms-leander-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B5%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/69950-hms-leander-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B5%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PBSC107", 
@@ -1217,7 +1247,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/74533-hms-fiji-58-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B5%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/74533-hms-fiji-58-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B5%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PBSC108", 
@@ -1337,7 +1367,17 @@
     "tier": 8, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/137721-cheshire-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+    "url": "https://forum.worldofwarships.ru/topic/141488-hms-cheshire%C2%A0-%C2%A0%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%C2%A0viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
+  }, 
+  {
+    "id_str": "PBSC510", 
+    "nation": "uk", 
+    "ship_id": "3760109520", 
+    "ship_name": "Plymouth", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/144488-plymouth-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
   }, 
   {
     "id_str": "PBSC516", 
@@ -1348,6 +1388,16 @@
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
     "url": "https://forum.worldofwarships.ru/topic/137239-london-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PBSC528", 
+    "nation": "uk", 
+    "ship_id": "3741235152", 
+    "ship_name": "Belfast '43", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/143855-belfast-43-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D1%91%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
   }, 
   {
     "id_str": "PBSD102", 
@@ -1407,7 +1457,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Destroyer", 
-    "url": "https://forum.worldofwarships.ru/topic/118453-hms-jervis-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/118453-hms-jervis-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PBSD108", 
@@ -1417,7 +1467,7 @@
     "tier": 8, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Destroyer", 
-    "url": "https://forum.worldofwarships.ru/topic/116620-lightning-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+    "url": "https://forum.worldofwarships.ru/topic/140891-%C2%ABlightning%C2%BB-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-095/"
   }, 
   {
     "id_str": "PBSD109", 
@@ -1447,7 +1497,7 @@
     "tier": 3, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Destroyer", 
-    "url": "https://forum.worldofwarships.ru/topic/67766-hms-campbeltown-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/67766-hms-campbeltown-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PBSD506", 
@@ -1507,7 +1557,7 @@
     "tier": 6, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/136796-normandie-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vi%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/136796-normandie-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vi%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PFSB107", 
@@ -1537,7 +1587,7 @@
     "tier": 9, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/106220-alsace%C2%A0%C2%A0-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/106220-alsace%C2%A0%C2%A0-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PFSB110", 
@@ -1557,7 +1607,7 @@
     "tier": 6, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/64611-dunkerque-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/64611-dunkerque-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PFSB508", 
@@ -1657,7 +1707,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/88703-alg%C3%A9rie%C2%A0-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%C2%A0vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/88703-alg%C3%A9rie%C2%A0-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%C2%A0vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PFSC108", 
@@ -1667,7 +1717,7 @@
     "tier": 8, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/93004-charles-martel-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-069x/"
+    "url": "https://forum.worldofwarships.ru/topic/143587-charles-martel-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910/"
   }, 
   {
     "id_str": "PFSC109", 
@@ -1717,7 +1767,7 @@
     "tier": 10, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/131645-colbert-%E2%80%94-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+    "url": "https://forum.worldofwarships.ru/topic/143598-colbert-c611-%E2%80%94-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
   }, 
   {
     "id_str": "PFSD103", 
@@ -1897,7 +1947,7 @@
     "tier": 5, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/72606-sms-k%C3%B6nig-albert-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/72606-sms-k%C3%B6nig-albert-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PGSB106", 
@@ -1967,7 +2017,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/64847-dkm-scharnhorst-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/64847-dkm-scharnhorst-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PGSB508", 
@@ -2067,7 +2117,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/34019-%D0%B9%D0%BE%D1%80%D0%BA-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+    "url": "https://forum.worldofwarships.ru/topic/144199-yorck-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910/"
   }, 
   {
     "id_str": "PGSC108", 
@@ -2117,7 +2167,7 @@
     "tier": 6, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/76443-dkm-admiral-graf-spee-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/76443-dkm-admiral-graf-spee-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PGSC507", 
@@ -2310,6 +2360,16 @@
     "url": "https://forum.worldofwarships.ru/topic/141478-z-35-%E2%80%94-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
   }, 
   {
+    "id_str": "PGSD519", 
+    "nation": "germany", 
+    "ship_id": "3750639408", 
+    "ship_name": "Z-44", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/144486-z-44-%E2%80%94-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
     "id_str": "PISB505", 
     "nation": "italy", 
     "ship_id": "3765384944", 
@@ -2317,7 +2377,7 @@
     "tier": 5, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/99191-giulio-cesare-%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/99191-giulio-cesare-%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PISB508", 
@@ -2387,7 +2447,7 @@
     "tier": 6, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/134378-trento-%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/134378-trento-%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PISC107", 
@@ -2467,7 +2527,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/135938-gorizia-%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/135938-gorizia-%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PISD509", 
@@ -2547,7 +2607,7 @@
     "tier": 2, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/63701-ijn-mikasa-%E4%B8%89%E7%AC%A0-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/63701-ijn-mikasa-%E4%B8%89%E7%AC%A0-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PJSB013", 
@@ -2557,7 +2617,7 @@
     "tier": 8, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/140594-amagi-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-095/"
+    "url": "https://forum.worldofwarships.ru/topic/59377-amagi-%E5%A4%A9%E5%9F%8E%E5%9E%8B-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0510/"
   }, 
   {
     "id_str": "PJSB018", 
@@ -2577,7 +2637,7 @@
     "tier": 9, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/66857-izumo-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0512%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/144384-izumo-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910/"
   }, 
   {
     "id_str": "PJSB506", 
@@ -2587,7 +2647,7 @@
     "tier": 6, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/83000-ijn-mutsu-%E9%99%B8%E5%A5%A5-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/83000-ijn-mutsu-%E9%99%B8%E5%A5%A5-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PJSB507", 
@@ -2617,7 +2677,7 @@
     "tier": 9, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/103207-musashi-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0701/"
+    "url": "https://forum.worldofwarships.ru/topic/141509-ijn-musashi-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-096/"
   }, 
   {
     "id_str": "PJSB510", 
@@ -2628,6 +2688,16 @@
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
     "url": "https://forum.worldofwarships.ru/topic/140486-shikishima-%E2%80%94-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSB526", 
+    "nation": "japan", 
+    "ship_id": "3743364816", 
+    "ship_name": "Ise", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/137820-enterprise-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-091/"
   }, 
   {
     "id_str": "PJSB705", 
@@ -2817,7 +2887,7 @@
     "tier": 3, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/78652-ijn-katori-%E9%A6%99%E5%8F%96-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/78652-ijn-katori-%E9%A6%99%E5%8F%96-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PJSC505", 
@@ -3217,7 +3287,7 @@
     "tier": 10, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Destroyer", 
-    "url": "https://forum.worldofwarships.ru/topic/139457-hayate-%E2%80%94-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+    "url": "https://forum.worldofwarships.ru/topic/143006-hayate-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-10-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-099/"
   }, 
   {
     "id_str": "PJSD518", 
@@ -3317,7 +3387,7 @@
     "tier": 6, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/136202-%C2%AB%D0%B8%D0%B7%D0%BC%D0%B0%D0%B8%D0%BB%C2%BB-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-%D1%80%D0%B8%D1%84-vi%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/136202-%C2%AB%D0%B8%D0%B7%D0%BC%D0%B0%D0%B8%D0%BB%C2%BB-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-%D1%80%D0%B8%D1%84-vi%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PRSB107", 
@@ -3327,7 +3397,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/139014-%C2%AB%D1%81%D0%B8%D0%BD%D0%BE%D0%BF%C2%BB-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-%D1%80%D0%B8%D1%84-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/139014-%C2%AB%D1%81%D0%B8%D0%BD%D0%BE%D0%BF%C2%BB-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-%D1%80%D0%B8%D1%84-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PRSB108", 
@@ -3367,7 +3437,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/137049-%C2%AB%D0%BF%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D0%B0%C2%BB-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vii%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/134840-%D0%BF%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D0%B0-%E2%80%94-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
   }, 
   {
     "id_str": "PRSB510", 
@@ -3377,7 +3447,7 @@
     "tier": 10, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/141934-%C2%AB%D1%81%D0%BB%D0%B0%D0%B2%D0%B0%C2%BB-%E2%80%94-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+    "url": "https://forum.worldofwarships.ru/topic/142791-%D1%81%D0%BB%D0%B0%D0%B2%D0%B0-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098/"
   }, 
   {
     "id_str": "PRSB518", 
@@ -3397,7 +3467,7 @@
     "tier": 3, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/70609-%C2%AB%D0%B0%D0%B2%D1%80%D0%BE%D1%80%D0%B0%C2%BB-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/70609-%C2%AB%D0%B0%D0%B2%D1%80%D0%BE%D1%80%D0%B0%C2%BB-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PRSC002", 
@@ -3407,7 +3477,7 @@
     "tier": 2, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/78492-%C2%AB%D0%B4%D0%B8%D0%B0%D0%BD%D0%B0%C2%BB-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/78492-%C2%AB%D0%B4%D0%B8%D0%B0%D0%BD%D0%B0%C2%BB-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PRSC003", 
@@ -3437,7 +3507,7 @@
     "tier": 3, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/72431-%C2%AB%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D1%80%D1%8C%C2%BB-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/72431-%C2%AB%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D1%80%D1%8C%C2%BB-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PRSC105", 
@@ -3527,7 +3597,17 @@
     "tier": 10, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/141757-%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-096/"
+    "url": "https://forum.worldofwarships.ru/topic/141195-%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PRSC503", 
+    "nation": "ussr", 
+    "ship_id": "3767449040", 
+    "ship_name": "\u041e\u043b\u0435\u0433", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/80924-%C2%AB%D0%BE%D0%BB%D0%B5%D0%B3%C2%BB-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PRSC505", 
@@ -3537,7 +3617,7 @@
     "tier": 5, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/66725-%C2%AB%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D1%8B%D0%BC%C2%BB-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B5%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/66725-%C2%AB%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D1%8B%D0%BC%C2%BB-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B5%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PRSC508", 
@@ -3577,7 +3657,7 @@
     "tier": 3, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/109286-%C2%AB%D0%B2%D0%B0%D1%80%D1%8F%D0%B3%C2%BB-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-iii%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/109286-%C2%AB%D0%B2%D0%B0%D1%80%D1%8F%D0%B3%C2%BB-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-iii%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PRSC515", 
@@ -3837,7 +3917,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Destroyer", 
-    "url": "https://forum.worldofwarships.ru/topic/68772-%C2%AB%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%C2%BB-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/68772-%C2%AB%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%C2%BB-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PRSD709", 
@@ -3867,7 +3947,7 @@
     "tier": 6, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/71655-hmas-perth-%D0%BB%D0%B5%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-c%D0%BE%D0%B4%D1%80%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D0%BD%D0%B0%D1%86%D0%B8%D0%B9-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/71655-hmas-perth-%D0%BB%D0%B5%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-c%D0%BE%D0%B4%D1%80%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D0%BD%D0%B0%D1%86%D0%B8%D0%B9-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PUSD503", 
@@ -3887,7 +3967,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Destroyer", 
-    "url": "https://forum.worldofwarships.ru/topic/117250-hmcs-haida-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-%D1%81%D0%BE%D0%B4%D1%80%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D0%BD%D0%B0%D1%86%D0%B8%D0%B9-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/117250-hmcs-haida-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-%D1%81%D0%BE%D0%B4%D1%80%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D0%BD%D0%B0%D1%86%D0%B8%D0%B9-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PVSC507", 
@@ -3907,7 +3987,7 @@
     "tier": 5, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Battleship", 
-    "url": "https://forum.worldofwarships.ru/topic/133569-sms-viribus-unitis%C2%A0-%C2%A0%D0%B0%D0%B2%D1%81%D1%82%D1%80%D0%BE-%D0%B2%D0%B5%D0%BD%D0%B3%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9-%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9%C2%A0%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-v%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098x/"
+    "url": "https://forum.worldofwarships.ru/topic/133569-sms-viribus-unitis%C2%A0-%C2%A0%D0%B0%D0%B2%D1%81%D1%82%D1%80%D0%BE-%D0%B2%D0%B5%D0%BD%D0%B3%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9-%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9%C2%A0%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-v%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910x/"
   }, 
   {
     "id_str": "PWSC101", 
@@ -4067,7 +4147,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/136796-normandie-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vi%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/136796-normandie-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vi%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PXSC007", 
@@ -4077,7 +4157,7 @@
     "tier": 7, 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Cruiser", 
-    "url": "https://forum.worldofwarships.ru/topic/100511-huanghe%C2%A0hms-aurora-%D0%BB%D0%B5%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D0%BF%D0%B0%D0%BD-%D0%B0%D0%B7%D0%B8%D0%B8-vi%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-098%D1%85/"
+    "url": "https://forum.worldofwarships.ru/topic/100511-huanghe%C2%A0hms-aurora-%D0%BB%D0%B5%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D0%BF%D0%B0%D0%BD-%D0%B0%D0%B7%D0%B8%D0%B8-vi%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0910%D1%85/"
   }, 
   {
     "id_str": "PXSC503", 

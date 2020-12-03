@@ -235,7 +235,7 @@
     "nation": "usa", 
     "ship_id": "3765385200", 
     "ship_name": "Oklahoma", 
-    "status_code": 404, 
+    "status_code": 200, 
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
@@ -702,6 +702,17 @@
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/en/Ship:Anchorage"
+  }, 
+  {
+    "id_str": "PASC587", 
+    "nation": "usa", 
+    "ship_id": "3679369200", 
+    "ship_name": "Atlanta B", 
+    "status_code": 404, 
+    "tier": 7, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Atlanta%20B"
   }, 
   {
     "id_str": "PASC597", 
@@ -1573,6 +1584,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:Cheshire"
   }, 
   {
+    "id_str": "PBSC510", 
+    "nation": "uk", 
+    "ship_id": "3760109520", 
+    "ship_name": "Plymouth", 
+    "status_code": 200, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Plymouth"
+  }, 
+  {
     "id_str": "PBSC516", 
     "nation": "uk", 
     "ship_id": "3753818064", 
@@ -1727,6 +1749,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:Cossack"
   }, 
   {
+    "id_str": "PBSD598", 
+    "nation": "uk", 
+    "ship_id": "3667802064", 
+    "ship_name": "Cossack B", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/en/Ship:Cossack%20B"
+  }, 
+  {
     "id_str": "PBSD605", 
     "nation": "uk", 
     "ship_id": "3660462032", 
@@ -1837,6 +1870,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:Dunkerque"
   }, 
   {
+    "id_str": "PFSB507", 
+    "nation": "france", 
+    "ship_id": "3763287888", 
+    "ship_name": "Strasbourg", 
+    "status_code": 200, 
+    "tier": 7, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Strasbourg"
+  }, 
+  {
     "id_str": "PFSB508", 
     "nation": "france", 
     "ship_id": "3762239312", 
@@ -1879,6 +1923,17 @@
     "title": "Wiki", 
     "type": "Battleship", 
     "url": "http://wiki.wargaming.net/en/Ship:Champagne"
+  }, 
+  {
+    "id_str": "PFSB599", 
+    "nation": "france", 
+    "ship_id": "3666818896", 
+    "ship_name": "Jean Bart B", 
+    "status_code": 200, 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Jean%20Bart%20B"
   }, 
   {
     "id_str": "PFSC101", 
@@ -2816,6 +2871,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:Z-35"
   }, 
   {
+    "id_str": "PGSD519", 
+    "nation": "germany", 
+    "ship_id": "3750639408", 
+    "ship_name": "Z-44", 
+    "status_code": 200, 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/en/Ship:Z-44"
+  }, 
+  {
     "id_str": "PGSS106", 
     "nation": "germany", 
     "ship_id": "4183209776", 
@@ -2860,6 +2926,83 @@
     "url": "http://wiki.wargaming.net/en/Ship:U-4501"
   }, 
   {
+    "id_str": "PISB104", 
+    "nation": "italy", 
+    "ship_id": "4185863920", 
+    "ship_name": "D.Alighieri", 
+    "status_code": 404, 
+    "tier": 4, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:D.Alighieri"
+  }, 
+  {
+    "id_str": "PISB105", 
+    "nation": "italy", 
+    "ship_id": "4184815344", 
+    "ship_name": "Cavour", 
+    "status_code": 404, 
+    "tier": 5, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Cavour"
+  }, 
+  {
+    "id_str": "PISB106", 
+    "nation": "italy", 
+    "ship_id": "4183766768", 
+    "ship_name": "Andrea Doria", 
+    "status_code": 200, 
+    "tier": 6, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Andrea%20Doria"
+  }, 
+  {
+    "id_str": "PISB107", 
+    "nation": "italy", 
+    "ship_id": "4182718192", 
+    "ship_name": "F. Caracciolo", 
+    "status_code": 404, 
+    "tier": 7, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:F.%20Caracciolo"
+  }, 
+  {
+    "id_str": "PISB108", 
+    "nation": "italy", 
+    "ship_id": "4181669616", 
+    "ship_name": "V. Veneto", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:V.%20Veneto"
+  }, 
+  {
+    "id_str": "PISB109", 
+    "nation": "italy", 
+    "ship_id": "4180621040", 
+    "ship_name": "Lepanto", 
+    "status_code": 404, 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Lepanto"
+  }, 
+  {
+    "id_str": "PISB110", 
+    "nation": "italy", 
+    "ship_id": "4179572464", 
+    "ship_name": "C. Colombo", 
+    "status_code": 404, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:C.%20Colombo"
+  }, 
+  {
     "id_str": "PISB505", 
     "nation": "italy", 
     "ship_id": "3765384944", 
@@ -2880,6 +3023,17 @@
     "title": "Wiki", 
     "type": "Battleship", 
     "url": "http://wiki.wargaming.net/en/Ship:Roma"
+  }, 
+  {
+    "id_str": "PISB509", 
+    "nation": "italy", 
+    "ship_id": "3761190640", 
+    "ship_name": "Marco Polo", 
+    "status_code": 404, 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Marco%20Polo"
   }, 
   {
     "id_str": "PISB708", 
@@ -3135,6 +3289,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:Kaga"
   }, 
   {
+    "id_str": "PJSA598", 
+    "nation": "japan", 
+    "ship_id": "3667900112", 
+    "ship_name": "Kaga B", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "AirCarrier", 
+    "url": "http://wiki.wargaming.net/en/Ship:Kaga%20B"
+  }, 
+  {
     "id_str": "PJSA917", 
     "nation": "japan", 
     "ship_id": "3333404368", 
@@ -3311,6 +3476,39 @@
     "url": "http://wiki.wargaming.net/en/Ship:Shikishima"
   }, 
   {
+    "id_str": "PJSB519", 
+    "nation": "japan", 
+    "ship_id": "3750704848", 
+    "ship_name": "Hizen", 
+    "status_code": 200, 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Hizen"
+  }, 
+  {
+    "id_str": "PJSB526", 
+    "nation": "japan", 
+    "ship_id": "3743364816", 
+    "ship_name": "Ise", 
+    "status_code": 404, 
+    "tier": 6, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Ise"
+  }, 
+  {
+    "id_str": "PJSB700", 
+    "nation": "japan", 
+    "ship_id": "3560912592", 
+    "ship_name": "ARP Yamato", 
+    "status_code": 200, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:ARP%20Yamato"
+  }, 
+  {
     "id_str": "PJSB705", 
     "nation": "japan", 
     "ship_id": "3555669712", 
@@ -3408,6 +3606,28 @@
     "title": "Wiki", 
     "type": "Battleship", 
     "url": "http://wiki.wargaming.net/en/Ship:Ragnarok"
+  }, 
+  {
+    "id_str": "PJSB906", 
+    "nation": "japan", 
+    "ship_id": "3344905936", 
+    "ship_name": "Ise 2", 
+    "status_code": 404, 
+    "tier": 6, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Ise%202"
+  }, 
+  {
+    "id_str": "PJSB916", 
+    "nation": "japan", 
+    "ship_id": "3334420176", 
+    "ship_name": "Ise 3", 
+    "status_code": 404, 
+    "tier": 6, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/en/Ship:Ise%203"
   }, 
   {
     "id_str": "PJSB918", 
@@ -3525,7 +3745,7 @@
     "ship_id": "4276008656", 
     "ship_name": "Tone", 
     "status_code": 404, 
-    "tier": 7, 
+    "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/en/Ship:Tone"
@@ -3641,6 +3861,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:Atago%20B"
   }, 
   {
+    "id_str": "PJSC610", 
+    "nation": "japan", 
+    "ship_id": "3655251664", 
+    "ship_name": "Kitakami", 
+    "status_code": 200, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Kitakami"
+  }, 
+  {
     "id_str": "PJSC705", 
     "nation": "japan", 
     "ship_id": "3555636944", 
@@ -3694,6 +3925,17 @@
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/en/Ship:S.%20Dragon"
+  }, 
+  {
+    "id_str": "PJSC718", 
+    "nation": "japan", 
+    "ship_id": "3542005456", 
+    "ship_name": "ARP Maya", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:ARP%20Maya"
   }, 
   {
     "id_str": "PJSC727", 
@@ -3760,6 +4002,28 @@
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/en/Ship:Hashidate"
+  }, 
+  {
+    "id_str": "PJSC918", 
+    "nation": "japan", 
+    "ship_id": "3332290256", 
+    "ship_name": "Tone 2", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Tone%202"
+  }, 
+  {
+    "id_str": "PJSC919", 
+    "nation": "japan", 
+    "ship_id": "3331241680", 
+    "ship_name": "Tone 3", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Tone%203"
   }, 
   {
     "id_str": "PJSC934", 
@@ -4939,6 +5203,17 @@
     "url": "http://wiki.wargaming.net/en/Ship:Perth"
   }, 
   {
+    "id_str": "PUSC516", 
+    "nation": "commonwealth", 
+    "ship_id": "3753817456", 
+    "ship_name": "Mysore", 
+    "status_code": 200, 
+    "tier": 6, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Mysore"
+  }, 
+  {
     "id_str": "PUSD503", 
     "nation": "commonwealth", 
     "ship_id": "3767416176", 
@@ -4959,6 +5234,28 @@
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/en/Ship:Haida"
+  }, 
+  {
+    "id_str": "PUSD510", 
+    "nation": "commonwealth", 
+    "ship_id": "3760076144", 
+    "ship_name": "Vampire II", 
+    "status_code": 404, 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/en/Ship:Vampire%20II"
+  }, 
+  {
+    "id_str": "PVSC502", 
+    "nation": "pa", 
+    "ship_id": "3768497488", 
+    "ship_name": "Alte Abreu", 
+    "status_code": 404, 
+    "tier": 2, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/en/Ship:Alte%20Abreu"
   }, 
   {
     "id_str": "PVSC507", 
@@ -5333,5 +5630,16 @@
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/en/Ship:Loyang"
+  }, 
+  {
+    "id_str": "PZSD518", 
+    "nation": "pan_asia", 
+    "ship_id": "3751687376", 
+    "ship_name": "Fen Yang", 
+    "status_code": 404, 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/en/Ship:Fen%20Yang"
   }
 ]
